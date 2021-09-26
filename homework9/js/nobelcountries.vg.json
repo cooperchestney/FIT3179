@@ -5,7 +5,7 @@
  "height": 600,
  "projection": {"type": "equirectangular"},
  "data": {
- "url": "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/js/worldmap.topojson",
+ "url": "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/homework9/js/worldmap.topojson",
  "format": {"type": "topojson", "feature": "custom.geo"}
  },
  "transform": [
@@ -13,7 +13,7 @@
  "lookup": "properties.iso_a2",
  "from": {
  "data": {
- "url": "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/data/nobelcountries.csv"
+ "url": "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/homework9/data/nobelcountries.csv"
  },
  "key": "bornCountryCode",
  "fields": ["n"]
