@@ -1,0 +1,36 @@
+{
+ "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+ "title": "Number of Nobel Prize winners by birth-country",
+ "width": 800,
+ "height": 600,
+ "projection": {"type": "equirectangular"},
+ "data": {
+ "url": "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/js/worldmap.topojson",
+ "format": {"type": "topojson", "feature": "custom.geo"}
+ },
+ "transform": [
+ {
+ "lookup": "properties.iso_a2",
+ "from": {
+ "data": {
+ "url": "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/data/nobelcountries.csv"
+ },
+ "key": "bornCountryCode",
+ "fields": ["n"]
+ }
+ },
+ {"calculate": "datum.n + 0.1", "as": "Number of Prizes"}
+ ],
+ "mark": {"type": "geoshape"},
+ "encoding": {
+ "color": {
+ "field": "Number of Prizes",
+ "type": "quantitative",
+ "scale": {"type": "log"}
+ },
+ "tooltip": [
+ {"field": "properties.iso_a2", "type": "nominal", "title": "Country"},
+ {"field": "n", "type": "quantitative"}
+ ]
+ }
+}
