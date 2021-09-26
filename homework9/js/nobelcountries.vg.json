@@ -25,7 +25,8 @@
  "encoding": {
  "color": {
  "field": "Number of Prizes",
- "type": "quantitative"
+ "type": "quantitative",
+ "scale": {"type": "log"}
  },
  "tooltip": [
  {"field": "properties.iso_a2", "type": "nominal", "title": "Country"},
