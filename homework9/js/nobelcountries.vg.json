@@ -21,6 +21,33 @@
  },
  {"calculate": "datum.n + 0.1", "as": "Number of Prizes"}
  ],
+  "params": [
+ {
+ "name": "Continent_selection",
+ "bind": {
+ "input": "select",
+ "options": [
+ null,
+ "North America",
+16
+ "South America",
+ "Europe",
+ "Africa",
+ "Asia",
+ "Oceania"
+ ],
+ "labels":[
+ "Show All",
+ "North America",
+ "South America",
+ "Europe",
+ "Africa",
+ "Asia",
+ "Oceania"
+ ],
+"transform": [
+ {"filter": "Continent_selection == null || datum.Continent == Continent_se
+lection"},
  "mark": {"type": "geoshape"},
  "encoding": {
  "color": {
