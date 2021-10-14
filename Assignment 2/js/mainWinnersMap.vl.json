@@ -1,0 +1,36 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Nobel prize winners",
+  "width": 800,
+  "height": 600,
+  "projection": {"type": "equirectangular"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/Assignment%202/js/worldmap.topojson",
+    "format": {"type": "topojson", "feature": "custom.geo"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.iso_a2",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/Assignment%202/data/nobelcountries.csv"
+        },
+        "key": "bornCountryCode",
+        "fields": ["n"]
+      }
+    },
+    {"calculate": "datum.n + 0.1", "as": "Number of prizes"}
+  ],
+  "mark": {"type": "geoshape"},
+  "encoding": {
+    "color": {
+      "field": "Number of prizes",
+      "type": "quantitative",
+      "scale": {"type": "log", "scheme": "lightgreyred"}
+    },
+    "tooltip": [
+      {"field": "properties.iso_a2", "type": "nominal", "title": "Country"},
+      {"field": "n", "type": "quantitative"}
+    ]
+  }
+}
