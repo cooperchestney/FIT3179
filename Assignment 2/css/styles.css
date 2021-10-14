@@ -1,8 +1,31 @@
-﻿#mainWinnersMap {
+#mainWinnersMap {
 	top:100px;
 	bottom: 100px; 
 	left: 100px;
 	right: 100px;
 	/*height: 1000px;
 	width: 800px;*/
+}
+
+.header {
+	padding: 60px;
+	font-family: 'Abril Fatface', cursive;
+	text-align:center;
+	background: #1abc9c;
+	color: white;
+	font-size: 30px;
+}
+
+.paragraph {
+	padding: 40px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px
+}
+.pure-g [class *= "pure-u"] {
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+
+.l-box {
+	padding: 10px;
 }
