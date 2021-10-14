@@ -56,18 +56,21 @@
     
     </div>
 
+    <div class="pure-u-1 l-box"/>
+        <div id="genderPieChart"></div>
+    
+        <script type="text/javascript">
+            var spec2 = "js/genderPieChart.vl.json";
+            vegaEmbed('#genderPieChart', spec2).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+            }).catch(console.error);
+        </script>
+        
+    </div>
 
 
 </div>
  
-         <div id="mainWinnersMap"></div>
-
-        <script type="text/javascript">
-            var spec2 = "js/mainWinnersMap.vl.json";
-            vegaEmbed('#mainWinnersMap', spec2).then(function(result) {
-            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-            }).catch(console.error);
-        </script>
 
 </body>
 </html>
