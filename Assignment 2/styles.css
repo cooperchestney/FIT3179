@@ -22,6 +22,7 @@
 }
 .pure-g [class *= "pure-u"] {
 	text-align:center
+	width: auto
 	box-sizing: border-box;
 	font-family: 'Roboto', sans-serif;
 }
