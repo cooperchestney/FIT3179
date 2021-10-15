@@ -8,7 +8,7 @@
   },
   
   "autosize2": {"contains": "padding", "resize": true, "type": "fit"},
-  "width": "400",
+  "width": "150",
   
   "mark": {"type": "arc", "innerRadius": 30},
   "encoding": {
