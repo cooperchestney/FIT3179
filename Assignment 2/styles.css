@@ -1,16 +1,19 @@
 #mainWinnersMap {
-	text-align:center
-	width: auto
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
 
 #genderPieChart {
-	text-align:center
-	width: auto
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
 
 #chart {
-	text-align:center
-	width: auto
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
 
 .header {
