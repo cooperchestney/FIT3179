@@ -21,6 +21,7 @@
 	font-size: 20px
 }
 .pure-g [class *= "pure-u"] {
+	display: block;
 	box-sizing: border-box;
 	font-family: 'Roboto', sans-serif;
 }
