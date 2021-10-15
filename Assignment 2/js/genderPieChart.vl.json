@@ -6,6 +6,10 @@
   "data": {
     "url": "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/Assignment%202/data/nobelwinners.csv"
   },
+  
+  "autosize2": {"contains": "padding", "resize": true, "type": "fit"},
+  width: 'container',
+  
   "mark": {"type": "arc", "innerRadius": 30},
   "encoding": {
     "column": {"field": "category"},
