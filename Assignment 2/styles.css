@@ -8,6 +8,11 @@
 	width: auto
 }
 
+#chart {
+	text-align:center
+	width: auto
+}
+
 .header {
 	padding: 60px;
 	font-family: 'Abril Fatface', cursive;
