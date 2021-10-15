@@ -9,6 +9,9 @@
     "format": {"type": "topojson", "feature": "custom.geo"}
   },
   
+  "autosize2": {"contains": "padding", "resize": true, "type": "fit"},
+  "width": 'container',
+  
   "transform": [
     {
       "lookup": "properties.iso_a2",
