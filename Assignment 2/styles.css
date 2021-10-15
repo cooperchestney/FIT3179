@@ -21,12 +21,11 @@
 	font-size: 20px
 }
 .pure-g [class *= "pure-u"] {
+	text-align:center
 	box-sizing: border-box;
 	font-family: 'Roboto', sans-serif;
 }
 
 .l-box {
 	padding: 10px;
-	display: block;
-	margin: auto;
 }
