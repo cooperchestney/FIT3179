@@ -15,7 +15,7 @@
       "field": "age",
       "aggregate": "count",
       "title": "Number of recipients",
-      "scale": {"scheme": "lightgreyred"}
+      "scale": {"scheme": "lightorange"}
     }
   }
 }
