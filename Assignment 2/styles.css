@@ -1,0 +1,65 @@
+﻿#mainWinnersMap {
+    	width: 100%;
+	padding: 10px;
+}
+
+#genderPieChart {
+    	width: 100%;
+	padding: 10px;
+}
+
+#chart {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 60px;
+}
+
+body {
+	background-color: #12475f !important;
+	padding: 20px;
+}
+
+#subtitle {
+	font-family: 'Roboto', sans-serif;
+	font-size: 40px;
+	text-align: left;
+}
+
+#summary {
+	font-size: 40px;
+	padding: 30px;
+	text-align: center;
+	position: relative;
+	top: 20px;
+}
+
+#front {
+	background: white;
+	padding: 20px;
+}
+
+.header {
+	padding: 60px;
+	font-family: 'Abril Fatface', cursive;
+	text-align:center;
+	background: #EF7860;
+	color: white;
+	font-size: 50px;
+}
+
+.paragraph {
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px
+}
+
+.pure-g [class *= "pure-u"] {
+	text-align:center
+	width: auto
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+
+.l-box {
+
+}
