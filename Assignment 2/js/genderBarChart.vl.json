@@ -1,0 +1,19 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 150,
+  "height": 400,
+  "title": "Nobel prize recipients gender makeup by category",
+  "data": {
+    "url": "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/Assignment%202/data/nobelwinners.csv"
+  },
+  
+  "autosize2": {"contains": "padding", "resize": true, "type": "fit"},
+  "width": "container",
+
+  "mark" : "bar",
+  "encoding": {
+    "x" :{"field":"category", "title": "Category"},
+    "y":{"field": "gender", "aggregate": "count", "title": "Number of prizes"},
+    "color":{"field":"gender", "title":"Gender"}
+  }
+}
