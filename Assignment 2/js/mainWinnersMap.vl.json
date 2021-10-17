@@ -10,8 +10,6 @@
   },
   
   "autosize2": {"contains": "padding", "resize": true, "type": "fit"},
-  "width": "container",
-  "height": "container",
   
   "transform": [
     {
