@@ -7,7 +7,7 @@
     "format": {"type": "topojson", "feature": "custom.geo"}
   },
   
-  "autosize2": {"contains": "padding", "resize": true, "type": "fit"},
+  "autosize": {"contains": "padding", "resize": true, "type": "fit"},
   "width": "container",
   "height": "container",
   
