@@ -3,7 +3,6 @@
   "height": 450,
   "width": 600,
   "autosize": {"type": "fit", "resize": true, "contains": "padding"},
-  "width": "container",
   "title": "Nobel prize recipients age when award recieved",
   "data": {
     "url": "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/Assignment%202/data/nobelwinners.csv"
