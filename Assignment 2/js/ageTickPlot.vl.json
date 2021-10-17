@@ -7,7 +7,6 @@
   "data": {
     "url": "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/Assignment%202/data/nobelwinners.csv"
   },
-  "autosize2": {"contains": "padding", "resize": true, "type": "fit"},
   "mark": "tick",
   "encoding": {
     "x": {"field": "age", "title": "Age", "scale": {"type": "linear"}},
