@@ -1,0 +1,891 @@
+"","id","X","firstname","surname","bornCountryCode","diedCountryCode","gender","year","category","motivation","age"
+"1",1,781,"Wilhelm Conrad","R_ntgen","DE","DE","male",1901,"physics","""in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him""",56
+"2",2,777,"Hendrik Antoon","Lorentz","NL","NL","male",1902,"physics","""in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena""",49
+"3",3,776,"Pieter","Zeeman","NL","NL","male",1902,"physics","""in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena""",37
+"4",4,778,"Antoine Henri","Becquerel","FR","FR","male",1903,"physics","""in recognition of the extraordinary services he has rendered by his discovery of spontaneous radioactivity""",50
+"5",5,783,"Pierre","Curie","FR","FR","male",1903,"physics","""in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel""",44
+"6",6,33,"Marie","Curie, n_e Sklodowska","PL","FR","female",1911,"chemistry","""in recognition of her services to the advancement of chemistry by the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element""",44
+"7",6,33,"Marie","Curie, n_e Sklodowska","PL","FR","female",1911,"chemistry","""in recognition of her services to the advancement of chemistry by the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element""",36
+"8",6,35,"Marie","Curie, n_e Sklodowska","PL","FR","female",1903,"physics","""in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel""",44
+"9",6,35,"Marie","Curie, n_e Sklodowska","PL","FR","female",1903,"physics","""in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel""",36
+"10",8,234,"Lord Rayleigh","(John William Strutt)","GB","GB","male",1904,"physics","""for his investigations of the densities of the most important gases and for his discovery of argon in connection with these studies""",62
+"11",9,299,"Philipp Eduard Anton","von Lenard","SK","DE","male",1905,"physics","""for his work on cathode rays""",43
+"12",10,785,"Joseph John","Thomson","GB","GB","male",1906,"physics","""in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases""",49
+"13",11,254,"Albert Abraham","Michelson","PL","US","male",1907,"physics","""for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid""",54
+"14",12,248,"Gabriel","Lippmann","LU","","male",1908,"physics","""for his method of reproducing colours photographically based on the phenomenon of interference""",63
+"15",13,790,"Guglielmo","Marconi","IT","IT","male",1909,"physics","""in recognition of their contributions to the development of wireless telegraphy""",35
+"16",14,791,"Karl Ferdinand","Braun","DE","US","male",1909,"physics","""in recognition of their contributions to the development of wireless telegraphy""",59
+"17",15,311,"Johannes Diderik","van der Waals","NL","NL","male",1910,"physics","""for his work on the equation of state for gases and liquids""",73
+"18",16,167,"Wilhelm","Wien","RU","DE","male",1911,"physics","""for his discoveries regarding the laws governing the radiation of heat""",47
+"19",17,228,"Nils Gustaf","Dal_n","SE","SE","male",1912,"physics","""for his invention of automatic regulators for use in conjunction with gas accumulators for illuminating lighthouses and buoys""",43
+"20",18,239,"Heike","Kamerlingh Onnes","NL","NL","male",1913,"physics","""for his investigations on the properties of matter at low temperatures which led, inter alia, to the production of liquid helium""",60
+"21",19,186,"Max","von Laue","DE","DE","male",1914,"physics","""for his discovery of the diffraction of X-rays by crystals""",35
+"22",20,726,"Sir William Henry","Bragg","GB","GB","male",1915,"physics","""for their services in the analysis of crystal structure by means of X-rays""",53
+"23",21,727,"William Lawrence","Bragg","AU","GB","male",1915,"physics","""for their services in the analysis of crystal structure by means of X-rays""",25
+"24",22,182,"Charles Glover","Barkla","GB","GB","male",1917,"physics","""for his discovery of the characteristic R&ouml;ntgen radiation of the elements""",40
+"25",23,789,"Max Karl Ernst Ludwig","Planck","DE","DE","male",1918,"physics","""in recognition of the services he rendered to the advancement of Physics by his discovery of energy quanta""",60
+"26",24,187,"Johannes","Stark","DE","DE","male",1919,"physics","""for his discovery of the Doppler effect in canal rays and the splitting of spectral lines in electric fields""",45
+"27",25,788,"Charles Edouard","Guillaume","CH","FR","male",1920,"physics","""in recognition of the service he has rendered to precision measurements in Physics by his discovery of anomalies in nickel steel alloys""",59
+"28",26,282,"Albert","Einstein","DE","US","male",1921,"physics","""for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect""",42
+"29",27,281,"Niels Henrik David","Bohr","DK","DK","male",1922,"physics","""for his services in the investigation of the structure of atoms and of the radiation emanating from them""",37
+"30",28,310,"Robert Andrews","Millikan","US","US","male",1923,"physics","""for his work on the elementary charge of electricity and on the photoelectric effect""",55
+"31",29,154,"Karl Manne Georg","Siegbahn","SE","SE","male",1924,"physics","""for his discoveries and research in the field of X-ray spectroscopy""",38
+"32",30,644,"James","Franck","DE","DE","male",1925,"physics","""for their discovery of the laws governing the impact of an electron upon an atom""",43
+"33",31,645,"Gustav Ludwig","Hertz","DE","DE","male",1925,"physics","""for their discovery of the laws governing the impact of an electron upon an atom""",38
+"34",32,309,"Jean Baptiste","Perrin","FR","US","male",1926,"physics","""for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium""",56
+"35",33,188,"Arthur Holly","Compton","US","US","male",1927,"physics","""for his discovery of the effect named after him""",35
+"36",34,247,"Charles Thomson Rees","Wilson","GB","GB","male",1927,"physics","""for his method of making the paths of electrically charged particles visible by condensation of vapour""",58
+"37",35,318,"Owen Willans","Richardson","GB","GB","male",1928,"physics","""for his work on the thermionic phenomenon and especially for the discovery of the law named after him""",49
+"38",36,203,"Prince Louis-Victor Pierre Raymond","de Broglie","FR","FR","male",1929,"physics","""for his discovery of the wave nature of electrons""",37
+"39",37,315,"Sir Chandrasekhara Venkata","Raman","IN","IN","male",1930,"physics","""for his work on the scattering of light and for the discovery of the effect named after him""",42
+"40",38,354,"Werner Karl","Heisenberg","DE","DE","male",1932,"physics","""for the creation of quantum mechanics, the application of which has, inter alia, led to the discovery of the allotropic forms of hydrogen""",31
+"41",39,402,"Erwin","Schr_dinger","AT","AT","male",1933,"physics","""for the discovery of new productive forms of atomic theory""",46
+"42",40,403,"Paul Adrien Maurice","Dirac","GB","US","male",1933,"physics","""for the discovery of new productive forms of atomic theory""",31
+"43",41,420,"James","Chadwick","GB","GB","male",1935,"physics","""for the discovery of the neutron""",44
+"44",42,173,"Victor Franz","Hess","AT","US","male",1936,"physics","""for his discovery of cosmic radiation""",53
+"45",43,199,"Carl David","Anderson","US","US","male",1936,"physics","""for his discovery of the positron""",31
+"46",44,669,"Clinton Joseph","Davisson","US","US","male",1937,"physics","""for their experimental discovery of the diffraction of electrons by crystals""",56
+"47",45,668,"George Paget","Thomson","GB","GB","male",1937,"physics","""for their experimental discovery of the diffraction of electrons by crystals""",45
+"48",46,141,"Enrico","Fermi","IT","US","male",1938,"physics","""for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons""",37
+"49",47,443,"Ernest Orlando","Lawrence","US","US","male",1939,"physics","""for the invention and development of the cyclotron and for results obtained with it, especially with regard to artificial radioactive elements""",38
+"50",48,121,"Otto","Stern","PL","US","male",1943,"physics","""for his contribution to the development of the molecular ray method and his discovery of the magnetic moment of the proton""",55
+"51",49,279,"Isidor Isaac","Rabi","PL","US","male",1944,"physics","""for his resonance method for recording the magnetic properties of atomic nuclei""",46
+"52",50,418,"Wolfgang","Pauli","AT","CH","male",1945,"physics","""for the discovery of the Exclusion Principle, also called the Pauli Principle""",45
+"53",51,444,"Percy Williams","Bridgman","US","US","male",1946,"physics","""for the invention of an apparatus to produce extremely high pressures, and for the discoveries he made therewith in the field of high pressure physics""",64
+"54",52,235,"Sir Edward Victor","Appleton","GB","GB","male",1947,"physics","""for his investigations of the physics of the upper atmosphere especially for the discovery of the so-called Appleton layer""",55
+"55",53,150,"Patrick Maynard Stuart","Blackett","GB","GB","male",1948,"physics","""for his development of the Wilson cloud chamber method, and his discoveries therewith in the fields of nuclear physics and cosmic radiation""",51
+"56",54,267,"Hideki","Yukawa","JP","JP","male",1949,"physics","""for his prediction of the existence of mesons on the basis of theoretical work on nuclear forces""",42
+"57",55,148,"Cecil Frank","Powell","GB","IT","male",1950,"physics","""for his development of the photographic method of studying nuclear processes and his discoveries regarding mesons made with this method""",47
+"58",56,697,"Sir John Douglas","Cockcroft","GB","GB","male",1951,"physics","""for their pioneer work on the transmutation of atomic nuclei by artificially accelerated atomic particles""",54
+"59",57,696,"Ernest Thomas Sinton","Walton","IE","GB","male",1951,"physics","""for their pioneer work on the transmutation of atomic nuclei by artificially accelerated atomic particles""",48
+"60",58,500,"Felix","Bloch","CH","CH","male",1952,"physics","""for their development of new methods for nuclear magnetic precision measurements and discoveries in connection therewith""",47
+"61",59,499,"Edward Mills","Purcell","US","US","male",1952,"physics","""for their development of new methods for nuclear magnetic precision measurements and discoveries in connection therewith""",40
+"62",60,140,"Frits","Zernike","NL","NL","male",1953,"physics","""for his demonstration of the phase contrast method, especially for his invention of the phase contrast microscope""",65
+"63",61,216,"Max","Born","PL","DE","male",1954,"physics","""for his fundamental research in quantum mechanics, especially for his statistical interpretation of the wavefunction""",71
+"64",62,352,"Walther","Bothe","DE","DE","male",1954,"physics","""for the coincidence method and his discoveries made therewith""",63
+"65",63,157,"Willis Eugene","Lamb","US","US","male",1955,"physics","""for his discoveries concerning the fine structure of the hydrogen spectrum""",42
+"66",64,266,"Polykarp","Kusch","DE","US","male",1955,"physics","""for his precision determination of the magnetic moment of the electron""",44
+"67",65,723,"William Bradford","Shockley","GB","US","male",1956,"physics","""for their researches on semiconductors and their discovery of the transistor effect""",46
+"68",66,689,"John","Bardeen","US","US","male",1972,"physics","""for their jointly developed theory of superconductivity, usually called the BCS-theory""",64
+"69",66,689,"John","Bardeen","US","US","male",1972,"physics","""for their jointly developed theory of superconductivity, usually called the BCS-theory""",48
+"70",66,725,"John","Bardeen","US","US","male",1956,"physics","""for their researches on semiconductors and their discovery of the transistor effect""",64
+"71",66,725,"John","Bardeen","US","US","male",1956,"physics","""for their researches on semiconductors and their discovery of the transistor effect""",48
+"72",67,724,"Walter Houser","Brattain","CN","US","male",1956,"physics","""for their researches on semiconductors and their discovery of the transistor effect""",54
+"73",68,695,"Chen Ning","Yang","CN","","male",1957,"physics","""for their penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles""",35
+"74",69,694,"Tsung-Dao (T.D.)","Lee","CN","","male",1957,"physics","""for their penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles""",31
+"75",70,387,"Pavel Alekseyevich","Cherenkov","RU","RU","male",1958,"physics","""for the discovery and the interpretation of the Cherenkov effect""",54
+"76",71,389,"Igor Yevgenyevich","Tamm","RU","RU","male",1958,"physics","""for the discovery and the interpretation of the Cherenkov effect""",63
+"77",72,635,"Emilio Gino","Segrè","IT","US","male",1959,"physics","""for their discovery of the antiproton""",54
+"78",73,636,"Owen","Chamberlain","US","US","male",1959,"physics","""for their discovery of the antiproton""",39
+"79",74,450,"Donald Arthur","Glaser","US","US","male",1960,"physics","""for the invention of the bubble chamber""",34
+"80",75,261,"Robert","Hofstadter","US","US","male",1961,"physics","""for his pioneering studies of electron scattering in atomic nuclei and for his thereby achieved discoveries concerning the structure of the nucleons""",46
+"81",76,275,"Rudolf Ludwig","M_ssbauer","DE","","male",1961,"physics","""for his researches concerning the resonance absorption of gamma radiation and his discovery in this connection of the effect which bears his name""",32
+"82",77,262,"Lev Davidovich","Landau","AZ","RU","male",1962,"physics","""for his pioneering theories for condensed matter, especially liquid helium""",54
+"83",78,134,"Eugene Paul","Wigner","HU","US","male",1963,"physics","""for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles""",61
+"84",79,19,"Maria","Goeppert Mayer","PL","US","female",1963,"physics","""for their discoveries concerning nuclear shell structure""",57
+"85",80,531,"J. Hans D.","Jensen","DE","DE","male",1963,"physics","""for their discoveries concerning nuclear shell structure""",56
+"86",81,79,"Charles Hard","Townes","US","US","male",1964,"physics","""for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle""",49
+"87",82,81,"Nicolay Gennadiyevich","Basov","RU","RU","male",1964,"physics","""for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle""",41
+"88",83,80,"Aleksandr Mikhailovich","Prokhorov","AU","RU","male",1964,"physics","""for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle""",48
+"89",84,677,"Sin-Itiro","Tomonaga","JP","JP","male",1965,"physics","""for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles""",59
+"90",85,675,"Julian","Schwinger","US","US","male",1965,"physics","""for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles""",47
+"91",86,676,"Richard P.","Feynman","US","US","male",1965,"physics","""for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles""",47
+"92",87,383,"Alfred","Kastler","FR","FR","male",1966,"physics","""for the discovery and development of optical methods for studying Hertzian resonances in atoms""",64
+"93",88,133,"Hans Albrecht","Bethe","FR","US","male",1967,"physics","""for his contributions to the theory of nuclear reactions, especially his discoveries concerning the energy production in stars""",61
+"94",89,137,"Luis Walter","Alvarez","US","US","male",1968,"physics","""for his decisive contributions to elementary particle physics, in particular the discovery of a large number of resonance states, made possible through his development of the technique of using hydrogen bubble chamber and data analysis""",57
+"95",90,124,"Murray","Gell-Mann","US","","male",1969,"physics","""for his contributions and discoveries concerning the classification of elementary particles and their interactions""",40
+"96",91,78,"Hannes Olof G_sta","Alfv_n","SE","SE","male",1970,"physics","""for fundamental work and discoveries in magnetohydro-dynamics with fruitful applications in different parts of plasma physics""",62
+"97",92,77,"Louis Eugène F_lix","N_el","FR","FR","male",1970,"physics","""for fundamental work and discoveries concerning antiferromagnetism and ferrimagnetism which have led to important applications in solid state physics""",66
+"98",93,227,"Dennis","Gabor","HU","GB","male",1971,"physics","""for his invention and development of the holographic method""",71
+"99",95,688,"Leon Neil","Cooper","US","","male",1972,"physics","""for their jointly developed theory of superconductivity, usually called the BCS-theory""",42
+"100",96,687,"John Robert","Schrieffer","US","","male",1972,"physics","""for their jointly developed theory of superconductivity, usually called the BCS-theory""",41
+"101",97,667,"Leo","Esaki","JP","","male",1973,"physics","""for their experimental discoveries regarding tunneling phenomena in semiconductors and superconductors, respectively""",48
+"102",98,666,"Ivar","Giaever","NO","","male",1973,"physics","""for their experimental discoveries regarding tunneling phenomena in semiconductors and superconductors, respectively""",44
+"103",99,288,"Brian David","Josephson","GB","","male",1973,"physics","""for his theoretical predictions of the properties of a supercurrent through a tunnel barrier, in particular those phenomena which are generally known as the Josephson effects""",33
+"104",100,706,"Sir Martin","Ryle","GB","GB","male",1974,"physics","""for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars""",56
+"105",101,707,"Antony","Hewish","GB","","male",1974,"physics","""for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars""",50
+"106",102,415,"Aage Niels","Bohr","DK","DK","male",1975,"physics","""for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection""",53
+"107",103,416,"Ben Roy","Mottelson","US","","male",1975,"physics","""for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection""",49
+"108",104,417,"Leo James","Rainwater","US","US","male",1975,"physics","""for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection""",58
+"109",105,711,"Burton","Richter","US","","male",1976,"physics","""for their pioneering work in the discovery of a heavy elementary particle of a new kind""",45
+"110",106,710,"Samuel Chao Chung","Ting","US","","male",1976,"physics","""for their pioneering work in the discovery of a heavy elementary particle of a new kind""",40
+"111",107,674,"Philip Warren","Anderson","US","","male",1977,"physics","""for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems""",53
+"112",108,672,"Sir Nevill Francis","Mott","GB","GB","male",1977,"physics","""for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems""",72
+"113",109,673,"John Hasbrouck","van Vleck","US","US","male",1977,"physics","""for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems""",78
+"114",110,113,"Pyotr Leonidovich","Kapitsa","RU","RU","male",1978,"physics","""for his basic inventions and discoveries in the area of low-temperature physics""",84
+"115",111,619,"Arno Allan","Penzias","DE","","male",1978,"physics","""for their discovery of cosmic microwave background radiation""",45
+"116",112,620,"Robert Woodrow","Wilson","US","","male",1978,"physics","""for their discovery of cosmic microwave background radiation""",42
+"117",113,489,"Sheldon Lee","Glashow","US","","male",1979,"physics","""for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current""",47
+"118",114,491,"Abdus","Salam","PK","GB","male",1979,"physics","""for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current""",53
+"119",115,490,"Steven","Weinberg","US","","male",1979,"physics","""for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current""",46
+"120",116,432,"James Watson","Cronin","US","US","male",1980,"physics","""for the discovery of violations of fundamental symmetry principles in the decay of neutral K-mesons""",49
+"121",117,433,"Val Logsdon","Fitch","US","US","male",1980,"physics","""for the discovery of violations of fundamental symmetry principles in the decay of neutral K-mesons""",57
+"122",118,472,"Nicolaas","Bloembergen","NL","","male",1981,"physics","""for their contribution to the development of laser spectroscopy""",61
+"123",119,473,"Arthur Leonard","Schawlow","US","US","male",1981,"physics","""for their contribution to the development of laser spectroscopy""",60
+"124",120,120,"Kai M.","Siegbahn","SE","SE","male",1981,"physics","""for his contribution to the development of high-resolution electron spectroscopy""",63
+"125",121,290,"Kenneth G.","Wilson","US","US","male",1982,"physics","""for his theory for critical phenomena in connection with phase transitions""",46
+"126",122,289,"Subramanyan","Chandrasekhar","PK","US","male",1983,"physics","""for his theoretical studies of the physical processes of importance to the structure and evolution of the stars""",73
+"127",123,287,"William Alfred","Fowler","US","US","male",1983,"physics","""for his theoretical and experimental studies of the nuclear reactions of importance in the formation of the chemical elements in the universe""",72
+"128",124,492,"Carlo","Rubbia","IT","CH","male",1984,"physics","""for their decisive contributions to the large project, which led to the discovery of the field particles W and Z, communicators of weak interaction""",50
+"129",125,493,"Simon","van der Meer","NL","CH","male",1984,"physics","""for their decisive contributions to the large project, which led to the discovery of the field particles W and Z, communicators of weak interaction""",59
+"130",126,424,"Klaus","von Klitzing","PL","","male",1985,"physics","""for the discovery of the quantized Hall effect""",42
+"131",127,219,"Ernst","Ruska","DE","DE","male",1986,"physics","""for his fundamental work in electron optics, and for the design of the first electron microscope""",79
+"132",128,495,"Gerd","Binnig","DE","","male",1986,"physics","""for their design of the scanning tunneling microscope""",39
+"133",129,494,"Heinrich","Rohrer","CH","CH","male",1986,"physics","""for their design of the scanning tunneling microscope""",53
+"134",130,678,"J. Georg","Bednorz","DE","","male",1987,"physics","""for their important break-through in the discovery of superconductivity in ceramic materials""",37
+"135",131,679,"K. Alexander","MÙller","CH","","male",1987,"physics","""for their important break-through in the discovery of superconductivity in ceramic materials""",60
+"136",132,452,"Leon M.","Lederman","US","","male",1988,"physics","""for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino""",66
+"137",133,454,"Melvin","Schwartz","US","US","male",1988,"physics","""for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino""",56
+"138",134,453,"Jack","Steinberger","DE","","male",1988,"physics","""for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino""",67
+"139",135,451,"Norman F.","Ramsey","US","US","male",1989,"physics","""for the invention of the separated oscillatory fields method and its use in the hydrogen maser and other atomic clocks""",74
+"140",136,375,"Hans G.","Dehmelt","DE","","male",1989,"physics","""for the development of the ion trap technique""",67
+"141",137,374,"Wolfgang","Paul","DE","DE","male",1989,"physics","""for the development of the ion trap technique""",76
+"142",138,703,"Jerome I.","Friedman","US","","male",1990,"physics","""for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics""",60
+"143",139,704,"Henry W.","Kendall","US","US","male",1990,"physics","""for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics""",64
+"144",140,705,"Richard E.","Taylor","CA","","male",1990,"physics","""for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics""",61
+"145",141,72,"Pierre-Gilles","de Gennes","FR","FR","male",1991,"physics","""for discovering that methods developed for studying order phenomena in simple systems can be generalized to more complex forms of matter, in particular to liquid crystals and polymers""",59
+"146",142,226,"Georges","Charpak","PL","FR","male",1992,"physics","""for his invention and development of particle detectors, in particular the multiwire proportional chamber""",68
+"147",143,391,"Russell A.","Hulse","US","","male",1993,"physics","""for the discovery of a new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation""",43
+"148",144,390,"Joseph H.","Taylor Jr.","US","","male",1993,"physics","""for the discovery of a new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation""",52
+"149",145,369,"Bertram N.","Brockhouse","CA","CA","male",1994,"physics","""for the development of neutron spectroscopy""",76
+"150",146,379,"Clifford G.","Shull","US","US","male",1994,"physics","""for the development of the neutron diffraction technique""",79
+"151",147,428,"Martin L.","Perl","US","US","male",1995,"physics","""for the discovery of the tau lepton""",68
+"152",148,359,"Frederick","Reines","US","US","male",1995,"physics","""for the detection of the neutrino""",77
+"153",149,629,"David M.","Lee","US","","male",1996,"physics","""for their discovery of superfluidity in helium-3""",65
+"154",150,631,"Douglas D.","Osheroff","US","","male",1996,"physics","""for their discovery of superfluidity in helium-3""",51
+"155",151,630,"Robert C.","Richardson","US","US","male",1996,"physics","""for their discovery of superfluidity in helium-3""",59
+"156",152,71,"Steven","Chu","US","","male",1997,"physics","""for development of methods to cool and trap atoms with laser light""",49
+"157",153,70,"Claude","Cohen-Tannoudji","DZ","","male",1997,"physics","""for development of methods to cool and trap atoms with laser light""",64
+"158",154,69,"William D.","Phillips","US","","male",1997,"physics","""for development of methods to cool and trap atoms with laser light""",49
+"159",155,616,"Robert B.","Laughlin","US","","male",1998,"physics","""for their discovery of a new form of quantum fluid with fractionally charged excitations""",48
+"160",156,614,"Horst L.","St_rmer","DE","","male",1998,"physics","""for their discovery of a new form of quantum fluid with fractionally charged excitations""",49
+"161",157,615,"Daniel C.","Tsui","CN","","male",1998,"physics","""for their discovery of a new form of quantum fluid with fractionally charged excitations""",59
+"162",158,76,"Gerardus","'t Hooft","NL","","male",1999,"physics","""for elucidating the quantum structure of electroweak interactions in physics""",53
+"163",159,75,"Martinus J.G.","Veltman","NL","","male",1999,"physics","""for elucidating the quantum structure of electroweak interactions in physics""",68
+"164",160,780,"Jacobus Henricus","van 't Hoff","NL","DE","male",1901,"chemistry","""in recognition of the extraordinary services he has rendered by the discovery of the laws of chemical dynamics and osmotic pressure in solutions""",49
+"165",161,779,"Hermann Emil","Fischer","DE","DE","male",1902,"chemistry","""in recognition of the extraordinary services he has rendered by his work on sugar and purine syntheses""",50
+"166",162,782,"Svante August","Arrhenius","SE","SE","male",1903,"chemistry","""in recognition of the extraordinary services he has rendered to the advancement of chemistry by his electrolytic theory of dissociation""",44
+"167",163,764,"Sir William","Ramsay","GB","GB","male",1904,"chemistry","""in recognition of his services in the discovery of the inert gaseous elements in air, and his determination of their place in the periodic system""",52
+"168",164,763,"Johann Friedrich Wilhelm Adolf","von Baeyer","DE","DE","male",1905,"chemistry","""in recognition of his services in the advancement of organic chemistry and the chemical industry, through his work on organic dyes and hydroaromatic compounds""",70
+"169",165,786,"Henri","Moissan","FR","FR","male",1906,"chemistry","""in recognition of the great services rendered by him in his investigation and isolation of the element fluorine, and for the adoption in the service of science of the electric furnace called after him""",54
+"170",166,114,"Eduard","Buchner","DE","RO","male",1907,"chemistry","""for his biochemical researches and his discovery of cell-free fermentation""",47
+"171",167,232,"Ernest","Rutherford","NZ","GB","male",1908,"chemistry","""for his investigations into the disintegration of the elements, and the chemistry of radioactive substances""",37
+"172",168,770,"Wilhelm","Ostwald","LV","DE","male",1909,"chemistry","""in recognition of his work on catalysis and for his investigations into the fundamental principles governing chemical equilibria and rates of reaction""",56
+"173",169,765,"Otto","Wallach","RU","DE","male",1910,"chemistry","""in recognition of his services to organic chemistry and the chemical industry by his pioneer work in the field of alicyclic compounds""",63
+"174",172,427,"Victor","Grignard","FR","FR","male",1912,"chemistry","""for the discovery of the so-called Grignard reagent, which in recent years has greatly advanced the progress of organic chemistry""",41
+"175",173,246,"Paul","Sabatier","FR","FR","male",1912,"chemistry","""for his method of hydrogenating organic compounds in the presence of finely disintegrated metals whereby the progress of organic chemistry has been greatly advanced in recent years""",58
+"176",174,771,"Alfred","Werner","FR","CH","male",1913,"chemistry","""in recognition of his work on the linkage of atoms in molecules by which he has thrown new light on earlier investigations and opened up new fields of research especially in inorganic chemistry""",46
+"177",175,758,"Theodore William","Richards","US","US","male",1914,"chemistry","""in recognition of his accurate determinations of the atomic weight of a large number of chemical elements""",46
+"178",176,277,"Richard Martin","Willst_tter","DE","CH","male",1915,"chemistry","""for his researches on plant pigments, especially chlorophyll""",43
+"179",177,461,"Fritz","Haber","PL","CH","male",1918,"chemistry","""for the synthesis of ammonia from its elements""",49
+"180",178,768,"Walther Hermann","Nernst","DE","DE","male",1920,"chemistry","""in recognition of his work in thermochemistry""",56
+"181",179,128,"Frederick","Soddy","GB","GB","male",1921,"chemistry","""for his contributions to our knowledge of the chemistry of radioactive substances, and his investigations into the origin and nature of isotopes""",44
+"182",180,208,"Francis William","Aston","GB","GB","male",1922,"chemistry","""for his discovery, by means of his mass spectrograph, of isotopes, in a large number of non-radioactive elements, and for his enunciation of the whole-number rule""",45
+"183",181,229,"Fritz","Pregl","SI","AT","male",1923,"chemistry","""for his invention of the method of micro-analysis of organic substances""",54
+"184",182,139,"Richard Adolf","Zsigmondy","AT","DE","male",1925,"chemistry","""for his demonstration of the heterogenous nature of colloid solutions and for the methods he used, which have since become fundamental in modern colloid chemistry""",60
+"185",183,301,"The (Theodor)","Svedberg","SE","SE","male",1926,"chemistry","""for his work on disperse systems""",42
+"186",184,233,"Heinrich Otto","Wieland","DE","DE","male",1927,"chemistry","""for his investigations of the constitution of the bile acids and related substances""",50
+"187",185,458,"Adolf Otto Reinhold","Windaus","DE","DE","male",1928,"chemistry","""for the services rendered through his research into the constitution of the sterols and their connection with the vitamins""",51
+"188",186,685,"Arthur","Harden","GB","GB","male",1929,"chemistry","""for their investigations on the fermentation of sugar and fermentative enzymes""",64
+"189",187,686,"Hans Karl August Simon","von Euler-Chelpin","DE","SE","male",1929,"chemistry","""for their investigations on the fermentation of sugar and fermentative enzymes""",56
+"190",188,276,"Hans","Fischer","DE","DE","male",1930,"chemistry","""for his researches into the constitution of haemin and chlorophyll and especially for his synthesis of haemin""",49
+"191",189,792,"Carl","Bosch","DE","DE","male",1931,"chemistry","""in recognition of their contributions to the invention and development of chemical high pressure methods""",57
+"192",190,793,"Friedrich","Bergius","PL","AR","male",1931,"chemistry","""in recognition of their contributions to the invention and development of chemical high pressure methods""",47
+"193",191,153,"Irving","Langmuir","US","US","male",1932,"chemistry","""for his discoveries and investigations in surface chemistry""",51
+"194",192,174,"Harold Clayton","Urey","US","US","male",1934,"chemistry","""for his discovery of heavy hydrogen""",41
+"195",193,794,"Fr_d_ric","Joliot","FR","FR","male",1935,"chemistry","""in recognition of their synthesis of new radioactive elements""",35
+"196",194,36,"Irène","Joliot-Curie","FR","FR","female",1935,"chemistry","""in recognition of their synthesis of new radioactive elements""",38
+"197",195,127,"Petrus (Peter) Josephus Wilhelmus","Debye","NL","US","male",1936,"chemistry","""for his contributions to our knowledge of molecular structure through his investigations on dipole moments and on the diffraction of X-rays and electrons in gases""",52
+"198",196,236,"Walter Norman","Haworth","GB","GB","male",1937,"chemistry","""for his investigations on carbohydrates and vitamin C""",54
+"199",197,237,"Paul","Karrer","RU","CH","male",1937,"chemistry","""for his investigations on carotenoids, flavins and vitamins A and B2""",48
+"200",198,298,"Richard","Kuhn","AT","DE","male",1938,"chemistry","""for his work on carotenoids and vitamins""",38
+"201",199,307,"Adolf Friedrich Johann","Butenandt","DE","DE","male",1939,"chemistry","""for his work on sex hormones""",36
+"202",200,304,"Leopold","Ruzicka","HR","CH","male",1939,"chemistry","""for his work on polymethylenes and higher terpenes""",52
+"203",201,319,"George","de Hevesy","HU","DE","male",1943,"chemistry","""for his work on the use of isotopes as tracers in the study of chemical processes""",58
+"204",202,189,"Otto","Hahn","DE","DE","male",1944,"chemistry","""for his discovery of the fission of heavy nuclei""",65
+"205",203,270,"Artturi Ilmari","Virtanen","FI","FI","male",1945,"chemistry","""for his research and inventions in agricultural and nutrition chemistry, especially for his fodder preservation method""",50
+"206",204,207,"James Batcheller","Sumner","US","US","male",1946,"chemistry","""for his discovery that enzymes can be crystallized""",59
+"207",205,720,"John Howard","Northrop","US","US","male",1946,"chemistry","""for their preparation of enzymes and virus proteins in a pure form""",55
+"208",206,719,"Wendell Meredith","Stanley","US","ES","male",1946,"chemistry","""for their preparation of enzymes and virus proteins in a pure form""",42
+"209",207,238,"Sir Robert","Robinson","GB","GB","male",1947,"chemistry","""for his investigations on plant products of biological importance, especially the alkaloids""",61
+"210",208,273,"Arne Wilhelm Kaurin","Tiselius","SE","SE","male",1948,"chemistry","""for his research on electrophoresis and adsorption analysis, especially for his discoveries concerning the complex nature of the serum proteins""",46
+"211",209,125,"William Francis","Giauque","CA","US","male",1949,"chemistry","""for his contributions in the field of chemical thermodynamics, particularly concerning the behaviour of substances at extremely low temperatures""",54
+"212",210,613,"Otto Paul Hermann","Diels","DE","DE","male",1950,"chemistry","""for their discovery and development of the diene synthesis""",74
+"213",211,612,"Kurt","Alder","PL","DE","male",1950,"chemistry","""for their discovery and development of the diene synthesis""",48
+"214",212,582,"Edwin Mattison","McMillan","US","US","male",1951,"chemistry","""for their discoveries in the chemistry of the transuranium elements""",44
+"215",213,583,"Glenn Theodore","Seaborg","US","US","male",1951,"chemistry","""for their discoveries in the chemistry of the transuranium elements""",39
+"216",214,684,"Archer John Porter","Martin","GB","GB","male",1952,"chemistry","""for their invention of partition chromatography""",42
+"217",215,683,"Richard Laurence Millington","Synge","GB","GB","male",1952,"chemistry","""for their invention of partition chromatography""",38
+"218",216,164,"Hermann","Staudinger","DE","DE","male",1953,"chemistry","""for his discoveries in the field of macromolecular chemistry""",72
+"219",217,271,"Linus Carl","Pauling","US","US","male",1954,"chemistry","""for his research into the nature of the chemical bond and its application to the elucidation of the structure of complex substances""",53
+"220",217,271,"Linus Carl","Pauling","US","US","male",1954,"chemistry","""for his research into the nature of the chemical bond and its application to the elucidation of the structure of complex substances""",61
+"221",217,821,"Linus Carl","Pauling","US","US","male",1962,"peace","",53
+"222",217,821,"Linus Carl","Pauling","US","US","male",1962,"peace","",61
+"223",218,297,"Vincent","du Vigneaud","US","US","male",1955,"chemistry","""for his work on biochemically important sulphur compounds, especially for the first synthesis of a polypeptide hormone""",54
+"224",219,722,"Sir Cyril Norman","Hinshelwood","GB","GB","male",1956,"chemistry","""for their researches into the mechanism of chemical reactions""",59
+"225",220,721,"Nikolay Nikolaevich","Semenov","RU","RU","male",1956,"chemistry","""for their researches into the mechanism of chemical reactions""",60
+"226",221,303,"Lord (Alexander R.)","Todd","GB","GB","male",1957,"chemistry","""for his work on nucleotides and nucleotide co-enzymes""",50
+"227",222,317,"Frederick","Sanger","GB","GB","male",1958,"chemistry","""for his work on the structure of proteins, especially that of insulin""",40
+"228",222,317,"Frederick","Sanger","GB","GB","male",1958,"chemistry","""for his work on the structure of proteins, especially that of insulin""",62
+"229",222,476,"Frederick","Sanger","GB","GB","male",1980,"chemistry","""for their contributions concerning the determination of base sequences in nucleic acids""",40
+"230",222,476,"Frederick","Sanger","GB","GB","male",1980,"chemistry","""for their contributions concerning the determination of base sequences in nucleic acids""",62
+"231",223,171,"Jaroslav","Heyrovsky","CZ","CZ","male",1959,"chemistry","""for his discovery and development of the polarographic methods of analysis""",68
+"232",224,249,"Willard Frank","Libby","US","US","male",1960,"chemistry","""for his method to use carbon-14 for age determination in archaeology, geology, geophysics, and other branches of science""",51
+"233",225,274,"Melvin","Calvin","US","US","male",1961,"chemistry","""for his research on the carbon dioxide assimilation in plants""",50
+"234",226,732,"Max Ferdinand","Perutz","AT","GB","male",1962,"chemistry","""for their studies of the structures of globular proteins""",48
+"235",227,733,"John Cowdery","Kendrew","GB","GB","male",1962,"chemistry","""for their studies of the structures of globular proteins""",45
+"236",228,585,"Karl","Ziegler","DE","DE","male",1963,"chemistry","""for their discoveries in the field of the chemistry and technology of high polymers""",65
+"237",229,584,"Giulio","Natta","IT","IT","male",1963,"chemistry","""for their discoveries in the field of the chemistry and technology of high polymers""",60
+"238",230,3,"Dorothy Crowfoot","Hodgkin","EG","GB","female",1964,"chemistry","""for her determinations by X-ray techniques of the structures of important biochemical substances""",54
+"239",231,255,"Robert Burns","Woodward","US","US","male",1965,"chemistry","""for his outstanding achievements in the art of organic synthesis""",48
+"240",232,218,"Robert S.","Mulliken","US","US","male",1966,"chemistry","""for his fundamental work concerning chemical bonds and the electronic structure of molecules by the molecular orbital method""",70
+"241",233,730,"Manfred","Eigen","DE","","male",1967,"chemistry","""for their studies of extremely fast chemical reactions, effected by disturbing the equilibrium by means of very short pulses of energy""",40
+"242",234,729,"Ronald George Wreyford","Norrish","GB","GB","male",1967,"chemistry","""for their studies of extremely fast chemical reactions, effected by disturbing the equilibrium by means of very short pulses of energy""",70
+"243",235,731,"George","Porter","GB","GB","male",1967,"chemistry","""for their studies of extremely fast chemical reactions, effected by disturbing the equilibrium by means of very short pulses of energy""",47
+"244",236,425,"Lars","Onsager","NO","US","male",1968,"chemistry","""for the discovery of the reciprocal relations bearing his name, which are fundamental for the thermodynamics of irreversible processes""",65
+"245",237,485,"Derek H. R.","Barton","GB","US","male",1969,"chemistry","""for their contributions to the development of the concept of conformation and its application in chemistry""",51
+"246",238,486,"Odd","Hassel","NO","NO","male",1969,"chemistry","""for their contributions to the development of the concept of conformation and its application in chemistry""",72
+"247",239,179,"Luis F.","Leloir","FR","AR","male",1970,"chemistry","""for his discovery of sugar nucleotides and their role in the biosynthesis of carbohydrates""",64
+"248",240,130,"Gerhard","Herzberg","DE","CA","male",1971,"chemistry","""for his contributions to the knowledge of electronic structure and geometry of molecules, particularly free radicals""",66
+"249",241,305,"Christian B.","Anfinsen","US","US","male",1972,"chemistry","""for his work on ribonuclease, especially concerning the connection between the amino acid sequence and the biologically active conformation""",56
+"250",242,475,"Stanford","Moore","US","US","male",1972,"chemistry","""for their contribution to the understanding of the connection between chemical structure and catalytic activity of the active centre of the ribonuclease molecule""",59
+"251",243,474,"William H.","Stein","US","US","male",1972,"chemistry","""for their contribution to the understanding of the connection between chemical structure and catalytic activity of the active centre of the ribonuclease molecule""",61
+"252",244,718,"Ernst Otto","Fischer","DE","DE","male",1973,"chemistry","""for their pioneering work, performed independently, on the chemistry of the organometallic, so called sandwich compounds""",55
+"253",245,717,"Geoffrey","Wilkinson","GB","GB","male",1973,"chemistry","""for their pioneering work, performed independently, on the chemistry of the organometallic, so called sandwich compounds""",52
+"254",246,214,"Paul J.","Flory","US","US","male",1974,"chemistry","""for his fundamental achievements, both theoretical and experimental, in the physical chemistry of the macromolecules""",64
+"255",247,316,"John Warcup","Cornforth","AU","","male",1975,"chemistry","""for his work on the stereochemistry of enzyme-catalyzed reactions""",58
+"256",248,272,"Vladimir","Prelog","BA","CH","male",1975,"chemistry","""for his research into the stereochemistry of organic molecules and reactions""",69
+"257",249,286,"William N.","Lipscomb","US","US","male",1976,"chemistry","""for his studies on the structure of boranes illuminating problems of chemical bonding""",57
+"258",250,126,"Ilya","Prigogine","RU","BE","male",1977,"chemistry","""for his contributions to non-equilibrium thermodynamics, particularly the theory of dissipative structures""",60
+"259",251,123,"Peter D.","Mitchell","GB","GB","male",1978,"chemistry","""for his contribution to the understanding of biological energy transfer through the formulation of the chemiosmotic theory""",58
+"260",252,504,"Herbert C.","Brown","GB","US","male",1979,"chemistry","""for their development of the use of boron- and phosphorus-containing compounds, respectively, into important reagents in organic synthesis""",67
+"261",253,503,"Georg","Wittig","DE","DE","male",1979,"chemistry","""for their development of the use of boron- and phosphorus-containing compounds, respectively, into important reagents in organic synthesis""",82
+"262",254,217,"Paul","Berg","US","","male",1980,"chemistry","""for his fundamental studies of the biochemistry of nucleic acids, with particular regard to recombinant-DNA""",54
+"263",255,477,"Walter","Gilbert","US","","male",1980,"chemistry","""for their contributions concerning the determination of base sequences in nucleic acids""",48
+"264",257,735,"Kenichi","Fukui","JP","JP","male",1981,"chemistry","""for their theories, developed independently, concerning the course of chemical reactions""",63
+"265",258,734,"Roald","Hoffmann","UA","","male",1981,"chemistry","""for their theories, developed independently, concerning the course of chemical reactions""",44
+"266",259,143,"Aaron","Klug","LT","","male",1982,"chemistry","""for his development of crystallographic electron microscopy and his structural elucidation of biologically important nucleic acid-protein complexes""",56
+"267",260,312,"Henry","Taube","CA","US","male",1983,"chemistry","""for his work on the mechanisms of electron transfer reactions, especially in metal complexes""",68
+"268",261,144,"Robert Bruce","Merrifield","US","US","male",1984,"chemistry","""for his development of methodology for chemical synthesis on a solid matrix""",63
+"269",262,690,"Herbert A.","Hauptman","US","US","male",1985,"chemistry","""for their outstanding achievements in the development of direct methods for the determination of crystal structures""",68
+"270",263,691,"Jerome","Karle","US","","male",1985,"chemistry","""for their outstanding achievements in the development of direct methods for the determination of crystal structures""",67
+"271",264,479,"Dudley R.","Herschbach","US","","male",1986,"chemistry","""for their contributions concerning the dynamics of chemical elementary processes""",54
+"272",265,478,"Yuan T.","Lee","TW","","male",1986,"chemistry","""for their contributions concerning the dynamics of chemical elementary processes""",50
+"273",266,480,"John C.","Polanyi","DE","","male",1986,"chemistry","""for their contributions concerning the dynamics of chemical elementary processes""",57
+"274",267,496,"Donald J.","Cram","US","US","male",1987,"chemistry","""for their development and use of molecules with structure-specific interactions of high selectivity""",68
+"275",268,497,"Jean-Marie","Lehn","FR","","male",1987,"chemistry","""for their development and use of molecules with structure-specific interactions of high selectivity""",48
+"276",269,498,"Charles J.","Pedersen","KR","US","male",1987,"chemistry","""for their development and use of molecules with structure-specific interactions of high selectivity""",83
+"277",270,360,"Johann","Deisenhofer","DE","","male",1988,"chemistry","""for the determination of the three-dimensional structure of a photosynthetic reaction centre""",45
+"278",271,362,"Robert","Huber","DE","","male",1988,"chemistry","""for the determination of the three-dimensional structure of a photosynthetic reaction centre""",51
+"279",272,361,"Hartmut","Michel","DE","","male",1988,"chemistry","""for the determination of the three-dimensional structure of a photosynthetic reaction centre""",40
+"280",273,618,"Sidney","Altman","CA","","male",1989,"chemistry","""for their discovery of catalytic properties of RNA""",50
+"281",274,617,"Thomas R.","Cech","US","","male",1989,"chemistry","""for their discovery of catalytic properties of RNA""",42
+"282",275,149,"Elias James","Corey","US","","male",1990,"chemistry","""for his development of the theory and methodology of organic synthesis""",62
+"283",276,129,"Richard R.","Ernst","CH","","male",1991,"chemistry","""for his contributions to the development of the methodology of high resolution nuclear magnetic resonance (NMR) spectroscopy""",58
+"284",277,132,"Rudolph A.","Marcus","CA","","male",1992,"chemistry","""for his contributions to the theory of electron transfer reactions in chemical systems""",69
+"285",278,230,"Kary B.","Mullis","US","","male",1993,"chemistry","""for his invention of the polymerase chain reaction (PCR) method""",48
+"286",279,215,"Michael","Smith","GB","CA","male",1993,"chemistry","""for his fundamental contributions to the establishment of oligonucleotide-based, site-directed mutagenesis and its development for protein studies""",61
+"287",280,119,"George A.","Olah","HU","","male",1994,"chemistry","""for his contribution to carbocation chemistry""",67
+"288",281,741,"Paul J.","Crutzen","NL","","male",1995,"chemistry","""for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone""",62
+"289",282,739,"Mario J.","Molina","MX","","male",1995,"chemistry","""for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone""",52
+"290",283,740,"F. Sherwood","Rowland","US","US","male",1995,"chemistry","""for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone""",68
+"291",284,622,"Robert F.","Curl Jr.","US","","male",1996,"chemistry","""for their discovery of fullerenes""",63
+"292",285,621,"Sir Harold W.","Kroto","GB","GB","male",1996,"chemistry","""for their discovery of fullerenes""",57
+"293",286,623,"Richard E.","Smalley","US","US","male",1996,"chemistry","""for their discovery of fullerenes""",53
+"294",287,660,"Paul D.","Boyer","US","","male",1997,"chemistry","""for their elucidation of the enzymatic mechanism underlying the synthesis of adenosine triphosphate (ATP)""",79
+"295",288,659,"John E.","Walker","GB","","male",1997,"chemistry","""for their elucidation of the enzymatic mechanism underlying the synthesis of adenosine triphosphate (ATP)""",56
+"296",289,440,"Jens C.","Skou","DK","","male",1997,"chemistry","""for the first discovery of an ion-transporting enzyme, Na+, K+ -ATPase""",79
+"297",290,147,"Walter","Kohn","AT","US","male",1998,"chemistry","""for his development of the density-functional theory""",75
+"298",291,142,"John A.","Pople","GB","US","male",1998,"chemistry","""for his development of computational methods in quantum chemistry""",73
+"299",292,285,"Ahmed H.","Zewail","EG","","male",1999,"chemistry","""for his studies of the transition states of chemical reactions using femtosecond spectroscopy""",53
+"300",293,306,"Emil Adolf","von Behring","PL","DE","male",1901,"medicine","""for his work on serum therapy, especially its application against diphtheria, by which he has opened a new road in the domain of medical science and thereby placed in the hands of the physician a victorious weapon against illness and deaths""",47
+"301",294,302,"Ronald","Ross","IN","GB","male",1902,"medicine","""for his work on malaria, by which he has shown how it enters the organism and thereby has laid the foundation for successful research on this disease and methods of combating it""",45
+"302",295,760,"Niels Ryberg","Finsen","DK","DK","male",1903,"medicine","""in recognition of his contribution to the treatment of diseases, especially lupus vulgaris, with concentrated light radiation, whereby he has opened a new avenue for medical science""",42
+"303",296,772,"Ivan Petrovich","Pavlov","RU","RU","male",1904,"medicine","""in recognition of his work on the physiology of digestion, through which knowledge on vital aspects of the subject has been transformed and enlarged""",55
+"304",297,231,"Robert","Koch","DE","DE","male",1905,"medicine","""for his investigations and discoveries in relation to tuberculosis""",61
+"305",298,798,"Camillo","Golgi","IT","IT","male",1906,"medicine","""in recognition of their work on the structure of the nervous system""",63
+"306",299,797,"Santiago","RamÑn y Cajal","ES","ES","male",1906,"medicine","""in recognition of their work on the structure of the nervous system""",54
+"307",300,773,"Charles Louis Alphonse","Laveran","FR","FR","male",1907,"medicine","""in recognition of his work on the role played by protozoa in causing diseases""",62
+"308",301,796,"Ilya Ilyich","Mechnikov","UA","FR","male",1908,"medicine","""in recognition of their work on immunity""",63
+"309",302,795,"Paul","Ehrlich","PL","DE","male",1908,"medicine","""in recognition of their work on immunity""",54
+"310",303,314,"Emil Theodor","Kocher","CH","CH","male",1909,"medicine","""for his work on the physiology, pathology and surgery of the thyroid gland""",68
+"311",304,775,"Albrecht","Kossel","DE","DE","male",1910,"medicine","""in recognition of the contributions to our knowledge of cell chemistry made through his work on proteins, including the nucleic substances""",57
+"312",305,308,"Allvar","Gullstrand","SE","SE","male",1911,"medicine","""for his work on the dioptrics of the eye""",49
+"313",306,774,"Alexis","Carrel","FR","FR","male",1912,"medicine","""in recognition of his work on vascular suture and the transplantation of blood vessels and organs""",39
+"314",307,769,"Charles Robert","Richet","FR","FR","male",1913,"medicine","""in recognition of his work on anaphylaxis""",63
+"315",308,313,"Robert","Bàràny","AT","SE","male",1914,"medicine","""for his work on the physiology and pathology of the vestibular apparatus""",38
+"316",309,168,"Jules","Bordet","BE","BE","male",1919,"medicine","""for his discoveries relating to immunity""",49
+"317",310,181,"Schack August Steenberg","Krogh","DK","DK","male",1920,"medicine","""for his discovery of the capillary motor regulating mechanism""",46
+"318",311,206,"Archibald Vivian","Hill","GB","GB","male",1922,"medicine","""for his discovery relating to the production of heat in the muscle""",36
+"319",312,190,"Otto Fritz","Meyerhof","DE","US","male",1922,"medicine","""for his discovery of the fixed relationship between the consumption of oxygen and the metabolism of lactic acid in the muscle""",38
+"320",313,399,"Frederick Grant","Banting","CA","CA","male",1923,"medicine","""for the discovery of insulin""",32
+"321",314,398,"John James Rickard","Macleod","GB","GB","male",1923,"medicine","""for the discovery of insulin""",47
+"322",315,195,"Willem","Einthoven","ID","NL","male",1924,"medicine","""for his discovery of the mechanism of the electrocardiogram""",64
+"323",316,200,"Johannes Andreas Grib","Fibiger","DK","DK","male",1926,"medicine","""for his discovery of the Spiroptera carcinoma""",59
+"324",317,202,"Julius","Wagner-Jauregg","AT","AT","male",1927,"medicine","""for his discovery of the therapeutic value of malaria inoculation in the treatment of dementia paralytica""",70
+"325",318,320,"Charles Jules Henri","Nicolle","FR","TN","male",1928,"medicine","""for his work on typhus""",62
+"326",319,180,"Christiaan","Eijkman","NL","NL","male",1929,"medicine","""for his discovery of the antineuritic vitamin""",71
+"327",320,193,"Sir Frederick Gowland","Hopkins","GB","GB","male",1929,"medicine","""for his discovery of the growth-stimulating vitamins""",68
+"328",321,175,"Karl","Landsteiner","AT","US","male",1930,"medicine","""for his discovery of human blood groups""",62
+"329",322,196,"Otto Heinrich","Warburg","DE","DE","male",1931,"medicine","""for his discovery of the nature and mode of action of the respiratory enzyme""",48
+"330",323,604,"Sir Charles Scott","Sherrington","GB","GB","male",1932,"medicine","""for their discoveries regarding the functions of neurons""",75
+"331",324,603,"Edgar Douglas","Adrian","GB","GB","male",1932,"medicine","""for their discoveries regarding the functions of neurons""",43
+"332",325,161,"Thomas Hunt","Morgan","US","US","male",1933,"medicine","""for his discoveries concerning the role played by the chromosome in heredity""",67
+"333",326,523,"George Hoyt","Whipple","US","US","male",1934,"medicine","""for their discoveries concerning liver therapy in cases of anaemia""",56
+"334",327,522,"George Richards","Minot","US","US","male",1934,"medicine","""for their discoveries concerning liver therapy in cases of anaemia""",49
+"335",328,521,"William Parry","Murphy","US","US","male",1934,"medicine","""for their discoveries concerning liver therapy in cases of anaemia""",42
+"336",329,197,"Hans","Spemann","DE","DE","male",1935,"medicine","""for his discovery of the organizer effect in embryonic development""",66
+"337",330,606,"Sir Henry Hallett","Dale","GB","GB","male",1936,"medicine","""for their discoveries relating to chemical transmission of nerve impulses""",61
+"338",331,605,"Otto","Loewi","DE","US","male",1936,"medicine","""for their discoveries relating to chemical transmission of nerve impulses""",63
+"339",332,163,"Albert","von Szent-Gy_rgyi Nagyràpolt","HU","US","male",1937,"medicine","""for his discoveries in connection with the biological combustion processes, with special reference to vitamin C and the catalysis of fumaric acid""",44
+"340",333,426,"Corneille Jean François","Heymans","BE","BE","male",1938,"medicine","""for the discovery of the role played by the sinus and aortic mechanisms in the regulation of respiration""",46
+"341",334,414,"Gerhard","Domagk","PL","DE","male",1939,"medicine","""for the discovery of the antibacterial effects of prontosil""",44
+"342",335,205,"Henrik Carl Peter","Dam","DK","DK","male",1943,"medicine","""for his discovery of vitamin K""",48
+"343",336,183,"Edward Adelbert","Doisy","US","US","male",1943,"medicine","""for his discovery of the chemical nature of vitamin K""",50
+"344",337,608,"Joseph","Erlanger","US","US","male",1944,"medicine","""for their discoveries relating to the highly differentiated functions of single nerve fibres""",70
+"345",338,607,"Herbert Spencer","Gasser","US","US","male",1944,"medicine","""for their discoveries relating to the highly differentiated functions of single nerve fibres""",56
+"346",339,404,"Sir Alexander","Fleming","GB","GB","male",1945,"medicine","""for the discovery of penicillin and its curative effect in various infectious diseases""",64
+"347",340,405,"Ernst Boris","Chain","DE","IE","male",1945,"medicine","""for the discovery of penicillin and its curative effect in various infectious diseases""",39
+"348",341,406,"Sir Howard Walter","Florey","AU","GB","male",1945,"medicine","""for the discovery of penicillin and its curative effect in various infectious diseases""",47
+"349",342,423,"Hermann Joseph","Muller","US","","male",1946,"medicine","""for the discovery of the production of mutations by means of X-ray irradiation""",55
+"350",343,643,"Carl Ferdinand","Cori","CZ","US","male",1947,"medicine","""for their discovery of the course of the catalytic conversion of glycogen""",51
+"351",344,26,"Gerty Theresa","Cori, n_e Radnitz","CZ","US","female",1947,"medicine","""for their discovery of the course of the catalytic conversion of glycogen""",51
+"352",345,198,"Bernardo Alberto","Houssay","AR","AR","male",1947,"medicine","""for his discovery of the part played by the hormone of the anterior pituitary lobe in the metabolism of sugar""",60
+"353",346,194,"Paul Hermann","MÙller","CH","CH","male",1948,"medicine","""for his discovery of the high efficiency of DDT as a contact poison against several arthropods""",49
+"354",347,191,"Walter Rudolf","Hess","CH","CH","male",1949,"medicine","""for his discovery of the functional organization of the interbrain as a coordinator of the activities of the internal organs""",68
+"355",348,201,"Antonio Caetano de Abreu Freire Egas","Moniz","PT","PT","male",1949,"medicine","""for his discovery of the therapeutic value of leucotomy in certain psychoses""",75
+"356",349,610,"Edward Calvin","Kendall","US","US","male",1950,"medicine","""for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects""",64
+"357",350,609,"Tadeus","Reichstein","PL","CH","male",1950,"medicine","""for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects""",53
+"358",351,611,"Philip Showalter","Hench","US","JM","male",1950,"medicine","""for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects""",54
+"359",352,162,"Max","Theiler","ZA","US","male",1951,"medicine","""for his discoveries concerning yellow fever and how to combat it""",52
+"360",353,178,"Selman Abraham","Waksman","UA","US","male",1952,"medicine","""for his discovery of streptomycin, the first antibiotic effective against tuberculosis""",64
+"361",354,184,"Hans Adolf","Krebs","DE","GB","male",1953,"medicine","""for his discovery of the citric acid cycle""",53
+"362",355,172,"Fritz Albert","Lipmann","RU","US","male",1953,"medicine","""for his discovery of co-enzyme A and its importance for intermediary metabolism""",54
+"363",356,633,"John Franklin","Enders","US","US","male",1954,"medicine","""for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue""",57
+"364",357,632,"Thomas Huckle","Weller","US","US","male",1954,"medicine","""for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue""",39
+"365",358,634,"Frederick Chapman","Robbins","US","US","male",1954,"medicine","""for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue""",38
+"366",359,160,"Axel Hugo Theodor","Theorell","SE","SE","male",1955,"medicine","""for his discoveries concerning the nature and mode of action of oxidation enzymes""",52
+"367",360,517,"Andr_ Fr_d_ric","Cournand","FR","US","male",1956,"medicine","""for their discoveries concerning heart catheterization and pathological changes in the circulatory system""",61
+"368",361,516,"Werner","Forssmann","DE","DE","male",1956,"medicine","""for their discoveries concerning heart catheterization and pathological changes in the circulatory system""",52
+"369",362,518,"Dickinson W.","Richards","US","US","male",1956,"medicine","""for their discoveries concerning heart catheterization and pathological changes in the circulatory system""",61
+"370",363,169,"Daniel","Bovet","CH","IT","male",1957,"medicine","""for his discoveries relating to synthetic compounds that inhibit the action of certain body substances, and especially their action on the vascular system and the skeletal muscles""",50
+"371",364,649,"George Wells","Beadle","US","US","male",1958,"medicine","""for their discovery that genes act by regulating definite chemical events""",55
+"372",365,648,"Edward Lawrie","Tatum","US","US","male",1958,"medicine","""for their discovery that genes act by regulating definite chemical events""",48
+"373",366,155,"Joshua","Lederberg","US","US","male",1958,"medicine","""for his discoveries concerning genetic recombination and the organization of the genetic material of bacteria""",33
+"374",367,646,"Severo","Ochoa","ES","ES","male",1959,"medicine","""for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid""",54
+"375",368,647,"Arthur","Kornberg","US","US","male",1959,"medicine","""for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid""",41
+"376",369,74,"Sir Frank Macfarlane","Burnet","AU","AU","male",1960,"medicine","""for discovery of acquired immunological tolerance""",61
+"377",370,73,"Peter Brian","Medawar","BR","GB","male",1960,"medicine","""for discovery of acquired immunological tolerance""",45
+"378",371,166,"Georg","von B_k_sy","HU","US","male",1961,"medicine","""for his discoveries of the physical mechanism of stimulation within the cochlea""",62
+"379",372,564,"Francis Harry Compton","Crick","GB","US","male",1962,"medicine","""for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material""",46
+"380",373,565,"James Dewey","Watson","US","","male",1962,"medicine","""for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material""",34
+"381",374,566,"Maurice Hugh Frederick","Wilkins","NZ","GB","male",1962,"medicine","""for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material""",45
+"382",375,560,"Sir John Carew","Eccles","AU","CH","male",1963,"medicine","""for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane""",60
+"383",376,559,"Alan Lloyd","Hodgkin","GB","GB","male",1963,"medicine","""for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane""",49
+"384",377,561,"Andrew Fielding","Huxley","GB","GB","male",1963,"medicine","""for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane""",46
+"385",378,562,"Konrad","Bloch","PL","US","male",1964,"medicine","""for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism""",52
+"386",379,563,"Feodor","Lynen","DE","DE","male",1964,"medicine","""for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism""",53
+"387",380,509,"François","Jacob","FR","FR","male",1965,"medicine","""for their discoveries concerning genetic control of enzyme and virus synthesis""",45
+"388",381,507,"Andr_","Lwoff","FR","FR","male",1965,"medicine","""for their discoveries concerning genetic control of enzyme and virus synthesis""",63
+"389",382,508,"Jacques","Monod","FR","FR","male",1965,"medicine","""for their discoveries concerning genetic control of enzyme and virus synthesis""",55
+"390",383,204,"Peyton","Rous","US","US","male",1966,"medicine","""for his discovery of tumour-inducing viruses""",87
+"391",384,156,"Charles Brenton","Huggins","CA","US","male",1966,"medicine","""for his discoveries concerning hormonal treatment of prostatic cancer""",65
+"392",385,571,"Ragnar","Granit","FI","SE","male",1967,"medicine","""for their discoveries concerning the primary physiological and chemical visual processes in the eye""",67
+"393",386,570,"Haldan Keffer","Hartline","US","US","male",1967,"medicine","""for their discoveries concerning the primary physiological and chemical visual processes in the eye""",63
+"394",387,569,"George","Wald","US","US","male",1967,"medicine","""for their discoveries concerning the primary physiological and chemical visual processes in the eye""",61
+"395",388,681,"Robert W.","Holley","US","US","male",1968,"medicine","""for their interpretation of the genetic code and its function in protein synthesis""",46
+"396",389,682,"Har Gobind","Khorana","IN","US","male",1968,"medicine","""for their interpretation of the genetic code and its function in protein synthesis""",46
+"397",390,680,"Marshall W.","Nirenberg","US","US","male",1968,"medicine","""for their interpretation of the genetic code and its function in protein synthesis""",41
+"398",391,576,"Max","DelbrÙck","DE","US","male",1969,"medicine","""for their discoveries concerning the replication mechanism and the genetic structure of viruses""",63
+"399",392,575,"Alfred D.","Hershey","US","US","male",1969,"medicine","""for their discoveries concerning the replication mechanism and the genetic structure of viruses""",61
+"400",393,574,"Salvador E.","Luria","IT","US","male",1969,"medicine","""for their discoveries concerning the replication mechanism and the genetic structure of viruses""",57
+"401",394,554,"Sir Bernard","Katz","DE","GB","male",1970,"medicine","""for their discoveries concerning the humoral transmittors in the nerve terminals and the mechanism for their storage, release and inactivation""",59
+"402",395,555,"Ulf","von Euler","SE","SE","male",1970,"medicine","""for their discoveries concerning the humoral transmittors in the nerve terminals and the mechanism for their storage, release and inactivation""",65
+"403",396,553,"Julius","Axelrod","US","US","male",1970,"medicine","""for their discoveries concerning the humoral transmittors in the nerve terminals and the mechanism for their storage, release and inactivation""",58
+"404",397,159,"Earl W.","Sutherland, Jr.","US","US","male",1971,"medicine","""for his discoveries concerning the mechanisms of the action of hormones""",56
+"405",398,547,"Gerald M.","Edelman","US","US","male",1972,"medicine","""for their discoveries concerning the chemical structure of antibodies""",43
+"406",399,548,"Rodney R.","Porter","GB","GB","male",1972,"medicine","""for their discoveries concerning the chemical structure of antibodies""",55
+"407",400,535,"Karl","von Frisch","AT","DE","male",1973,"medicine","""for their discoveries concerning organization and elicitation of individual and social behaviour patterns""",87
+"408",401,534,"Konrad","Lorenz","AT","AT","male",1973,"medicine","""for their discoveries concerning organization and elicitation of individual and social behaviour patterns""",70
+"409",402,536,"Nikolaas","Tinbergen","NL","GB","male",1973,"medicine","""for their discoveries concerning organization and elicitation of individual and social behaviour patterns""",66
+"410",403,580,"Albert","Claude","BE","BE","male",1974,"medicine","""for their discoveries concerning the structural and functional organization of the cell""",76
+"411",404,579,"Christian","de Duve","GB","BE","male",1974,"medicine","""for their discoveries concerning the structural and functional organization of the cell""",57
+"412",405,581,"George E.","Palade","RO","US","male",1974,"medicine","""for their discoveries concerning the structural and functional organization of the cell""",62
+"413",406,556,"David","Baltimore","US","","male",1975,"medicine","""for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell""",37
+"414",407,557,"Renato","Dulbecco","IT","US","male",1975,"medicine","""for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell""",61
+"415",408,558,"Howard Martin","Temin","US","US","male",1975,"medicine","""for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell""",40
+"416",409,527,"Baruch S.","Blumberg","US","US","male",1976,"medicine","""for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases""",51
+"417",410,526,"D. Carleton","Gajdusek","US","NO","male",1976,"medicine","""for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases""",53
+"418",411,568,"Roger","Guillemin","FR","","male",1977,"medicine","""for their discoveries concerning the peptide hormone production of the brain""",53
+"419",412,567,"Andrew V.","Schally","LT","","male",1977,"medicine","""for their discoveries concerning the peptide hormone production of the brain""",51
+"420",413,16,"Rosalyn","Yalow","US","US","female",1977,"medicine","""for the development of radioimmunoassays of peptide hormones""",56
+"421",414,410,"Werner","Arber","CH","","male",1978,"medicine","""for the discovery of restriction enzymes and their application to problems of molecular genetics""",49
+"422",415,409,"Daniel","Nathans","US","US","male",1978,"medicine","""for the discovery of restriction enzymes and their application to problems of molecular genetics""",50
+"423",416,408,"Hamilton O.","Smith","US","","male",1978,"medicine","""for the discovery of restriction enzymes and their application to problems of molecular genetics""",47
+"424",417,364,"Allan M.","Cormack","ZA","US","male",1979,"medicine","""for the development of computer assisted tomography""",55
+"425",418,363,"Godfrey N.","Hounsfield","GB","GB","male",1979,"medicine","""for the development of computer assisted tomography""",60
+"426",419,514,"Baruj","Benacerraf","VE","US","male",1980,"medicine","""for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions""",60
+"427",420,515,"Jean","Dausset","FR","ES","male",1980,"medicine","""for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions""",64
+"428",421,513,"George D.","Snell","US","US","male",1980,"medicine","""for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions""",76
+"429",422,158,"Roger W.","Sperry","US","US","male",1981,"medicine","""for his discoveries concerning the functional specialization of the cerebral hemispheres""",68
+"430",423,520,"David H.","Hubel","CA","US","male",1981,"medicine","""for their discoveries concerning information processing in the visual system""",55
+"431",424,519,"Torsten N.","Wiesel","SE","","male",1981,"medicine","""for their discoveries concerning information processing in the visual system""",57
+"432",425,539,"Sune K.","Bergstr_m","SE","SE","male",1982,"medicine","""for their discoveries concerning prostaglandins and related biologically active substances""",66
+"433",426,538,"Bengt I.","Samuelsson","SE","","male",1982,"medicine","""for their discoveries concerning prostaglandins and related biologically active substances""",48
+"434",427,537,"John R.","Vane","GB","GB","male",1982,"medicine","""for their discoveries concerning prostaglandins and related biologically active substances""",55
+"435",428,5,"Barbara","McClintock","US","US","female",1983,"medicine","""for her discovery of mobile genetic elements""",81
+"436",429,750,"Niels K.","Jerne","GB","FR","male",1984,"medicine","""for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies""",72
+"437",430,749,"Georges J.F.","K_hler","DE","DE","male",1984,"medicine","""for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies""",38
+"438",431,751,"C_sar","Milstein","AR","GB","male",1984,"medicine","""for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies""",57
+"439",432,573,"Michael S.","Brown","US","","male",1985,"medicine","""for their discoveries concerning the regulation of cholesterol metabolism""",44
+"440",433,572,"Joseph L.","Goldstein","US","","male",1985,"medicine","""for their discoveries concerning the regulation of cholesterol metabolism""",45
+"441",434,588,"Stanley","Cohen","US","","male",1986,"medicine","""for their discoveries of growth factors""",64
+"442",435,22,"Rita","Levi-Montalcini","IT","IT","female",1986,"medicine","""for their discoveries of growth factors""",77
+"443",436,192,"Susumu","Tonegawa","JP","","male",1987,"medicine","""for his discovery of the genetic principle for generation of antibody diversity""",48
+"444",437,589,"Sir James W.","Black","GB","","male",1988,"medicine","""for their discoveries of important principles for drug treatment""",64
+"445",438,23,"Gertrude B.","Elion","US","US","female",1988,"medicine","""for their discoveries of important principles for drug treatment""",70
+"446",439,590,"George H.","Hitchings","US","US","male",1988,"medicine","""for their discoveries of important principles for drug treatment""",83
+"447",440,641,"J. Michael","Bishop","US","","male",1989,"medicine","""for their discovery of the cellular origin of retroviral oncogenes""",53
+"448",441,642,"Harold E.","Varmus","US","","male",1989,"medicine","""for their discovery of the cellular origin of retroviral oncogenes""",49
+"449",442,532,"Joseph E.","Murray","US","US","male",1990,"medicine","""for their discoveries concerning organ and cell transplantation in the treatment of human disease""",71
+"450",443,533,"E. Donnall","Thomas","US","US","male",1990,"medicine","""for their discoveries concerning organ and cell transplantation in the treatment of human disease""",70
+"451",444,549,"Erwin","Neher","DE","","male",1991,"medicine","""for their discoveries concerning the function of single ion channels in cells""",47
+"452",445,550,"Bert","Sakmann","DE","","male",1991,"medicine","""for their discoveries concerning the function of single ion channels in cells""",49
+"453",446,541,"Edmond H.","Fischer","CN","","male",1992,"medicine","""for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism""",72
+"454",447,540,"Edwin G.","Krebs","US","US","male",1992,"medicine","""for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism""",74
+"455",448,601,"Richard J.","Roberts","GB","","male",1993,"medicine","""for their discoveries of split genes""",50
+"456",449,602,"Phillip A.","Sharp","US","","male",1993,"medicine","""for their discoveries of split genes""",49
+"457",450,624,"Alfred G.","Gilman","US","US","male",1994,"medicine","""for their discovery of G-proteins and the role of these proteins in signal transduction in cells""",53
+"458",451,625,"Martin","Rodbell","US","US","male",1994,"medicine","""for their discovery of G-proteins and the role of these proteins in signal transduction in cells""",69
+"459",452,551,"Edward B.","Lewis","US","US","male",1995,"medicine","""for their discoveries concerning the genetic control of early embryonic development""",77
+"460",453,20,"Christiane","NÙsslein-Volhard","DE","","female",1995,"medicine","""for their discoveries concerning the genetic control of early embryonic development""",53
+"461",454,552,"Eric F.","Wieschaus","US","","male",1995,"medicine","""for their discoveries concerning the genetic control of early embryonic development""",48
+"462",455,577,"Peter C.","Doherty","AU","","male",1996,"medicine","""for their discoveries concerning the specificity of the cell mediated immune defence""",56
+"463",456,578,"Rolf M.","Zinkernagel","CH","","male",1996,"medicine","""for their discoveries concerning the specificity of the cell mediated immune defence""",52
+"464",457,177,"Stanley B.","Prusiner","US","","male",1997,"medicine","""for his discovery of Prions - a new biological principle of infection""",55
+"465",458,528,"Robert F.","Furchgott","US","US","male",1998,"medicine","""for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system""",82
+"466",459,530,"Louis J.","Ignarro","US","","male",1998,"medicine","""for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system""",57
+"467",460,529,"Ferid","Murad","US","","male",1998,"medicine","""for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system""",62
+"468",461,437,"GÙnter","Blobel","PL","","male",1999,"medicine","""for the discovery that proteins have intrinsic signals that govern their transport and localization in the cell""",63
+"469",462,848,"Jean Henry","Dunant","CH","CH","male",1901,"peace","",73
+"470",463,846,"Fr_d_ric","Passy","FR","FR","male",1901,"peace","",79
+"471",464,850,"Älie","Ducommun","CH","CH","male",1902,"peace","",69
+"472",465,855,"Charles Albert","Gobat","CH","CH","male",1902,"peace","",59
+"473",466,847,"William Randal","Cremer","GB","GB","male",1903,"peace","",75
+"474",468,47,"Baroness Bertha Sophie Felicita","von Suttner, n_e Countess Kinsky von Chinic und Tettau","CZ","AT","female",1905,"peace","",62
+"475",470,864,"Theodore","Roosevelt","US","US","male",1906,"peace","",48
+"476",471,851,"Ernesto Teodoro","Moneta","IT","IT","male",1907,"peace","",74
+"477",472,820,"Louis","Renault","FR","FR","male",1907,"peace","",64
+"478",473,856,"Klas Pontus","Arnoldson","SE","SE","male",1908,"peace","",64
+"479",474,852,"Fredrik","Bajer","DK","DK","male",1908,"peace","",71
+"480",475,849,"Auguste Marie François","Beernaert","BE","CH","male",1909,"peace","",80
+"481",476,859,"Paul Henri Benjamin Balluet","d'Estournelles de Constant, Baron de Constant de Rebecque","FR","FR","male",1909,"peace","",57
+"482",478,853,"Tobias Michael Carel","Asser","NL","NL","male",1911,"peace","",73
+"483",479,871,"Alfred Hermann","Fried","AT","AT","male",1911,"peace","",47
+"484",480,857,"Elihu","Root","US","US","male",1912,"peace","",67
+"485",481,860,"Henri","La Fontaine","BE","BE","male",1913,"peace","",59
+"486",483,862,"Thomas Woodrow","Wilson","US","US","male",1919,"peace","",62
+"487",484,858,"L_on Victor Auguste","Bourgeois","FR","FR","male",1920,"peace","",69
+"488",485,865,"Karl Hjalmar","Branting","SE","SE","male",1921,"peace","",61
+"489",486,875,"Christian Lous","Lange","NO","NO","male",1921,"peace","",52
+"490",487,866,"Fridtjof","Nansen","NO","NO","male",1922,"peace","",61
+"491",488,869,"Sir Austen","Chamberlain","GB","GB","male",1925,"peace","",62
+"492",489,873,"Charles Gates","Dawes","US","US","male",1925,"peace","",60
+"493",490,867,"Aristide","Briand","FR","FR","male",1926,"peace","",64
+"494",491,879,"Gustav","Stresemann","DE","DE","male",1926,"peace","",48
+"495",492,854,"Ferdinand","Buisson","FR","FR","male",1927,"peace","",85
+"496",493,863,"Ludwig","Quidde","DE","CH","male",1927,"peace","",69
+"497",494,861,"Frank Billings","Kellogg","US","US","male",1929,"peace","",72
+"498",495,874,"Lars Olof Jonathan (Nathan)","S_derblom","SE","SE","male",1930,"peace","",64
+"499",496,48,"Jane","Addams","US","US","female",1931,"peace","",71
+"500",497,819,"Nicholas Murray","Butler","US","US","male",1931,"peace","",69
+"501",498,877,"Sir Norman","Angell (Ralph Lane)","GB","GB","male",1933,"peace","",60
+"502",499,868,"Arthur","Henderson","GB","GB","male",1934,"peace","",71
+"503",500,885,"Carl","von Ossietzky","DE","DE","male",1935,"peace","",46
+"504",501,880,"Carlos","Saavedra Lamas","AR","AR","male",1936,"peace","",58
+"505",502,870,"Cecil of Chelwood, Viscount","(Lord Edgar Algernon Robert Gascoyne Cecil)","GB","GB","male",1937,"peace","",73
+"506",505,876,"Cordell","Hull","US","US","male",1945,"peace","",74
+"507",506,49,"Emily Greene","Balch","US","US","female",1946,"peace","",79
+"508",507,872,"John Raleigh","Mott","US","US","male",1946,"peace","",81
+"509",510,882,"Lord (John)","Boyd Orr of Brechin","GB","GB","male",1949,"peace","",69
+"510",511,818,"Ralph","Bunche","US","US","male",1950,"peace","",46
+"511",512,881,"L_on","Jouhaux","FR","FR","male",1951,"peace","",72
+"512",513,878,"Albert","Schweitzer","FR","GA","male",1952,"peace","",77
+"513",514,883,"George Catlett","Marshall","US","US","male",1953,"peace","",72
+"514",516,887,"Lester Bowles","Pearson","CA","CA","male",1957,"peace","",60
+"515",517,829,"Georges","Pire","BE","BE","male",1958,"peace","",48
+"516",518,886,"Philip J.","Noel-Baker","GB","GB","male",1959,"peace","",70
+"517",519,888,"Albert John","Lutuli","ZW","ZA","male",1960,"peace","",62
+"518",520,828,"Dag Hjalmar Agne Carl","Hammarskj_ld","SE","ZM","male",1961,"peace","",56
+"519",524,839,"Martin Luther","King Jr.","US","US","male",1964,"peace","",35
+"520",526,884,"Ren_","Cassin","FR","FR","male",1968,"peace","",81
+"521",528,834,"Norman E.","Borlaug","US","US","male",1970,"peace","",56
+"522",529,833,"Willy","Brandt","DE","DE","male",1971,"peace","",57
+"523",530,837,"Henry A.","Kissinger","DE","","male",1973,"peace","",50
+"524",531,831,"Le Duc Tho","","VN","VN","male",1973,"peace","",62
+"525",532,827,"Seàn","MacBride","FR","IE","male",1974,"peace","",70
+"526",533,826,"Eisaku","Sato","JP","JP","male",1974,"peace","",73
+"527",534,836,"Andrei Dmitrievich","Sakharov","RU","RU","male",1975,"peace","",54
+"528",535,43,"Betty","Williams","GB","","female",1976,"peace","",33
+"529",536,44,"Mairead","Corrigan","GB","","female",1976,"peace","",32
+"530",538,835,"Mohamed Anwar","al-Sadat","EG","EG","male",1978,"peace","",59
+"531",539,832,"Menachem","Begin","BY","IL","male",1978,"peace","",65
+"532",540,46,"Mother Teresa","","MK","IN","female",1979,"peace","",69
+"533",541,823,"Adolfo","P_rez Esquivel","AR","","male",1980,"peace","",49
+"534",543,45,"Alva","Myrdal","SE","SE","female",1982,"peace","",80
+"535",544,830,"Alfonso","GarcÕa Robles","MX","","male",1982,"peace","",71
+"536",545,825,"Lech","Walesa","PL","","male",1983,"peace","",40
+"537",546,822,"Desmond Mpilo","Tutu","ZA","","male",1984,"peace","",53
+"538",548,838,"Elie","Wiesel","RO","US","male",1986,"peace","",58
+"539",549,296,"Oscar","Arias Sànchez","CR","","male",1987,"peace","""for his work for peace in Central America, efforts which led to the accord signed in Guatemala on August 7 this year""",46
+"540",551,824,"The 14th Dalai Lama (Tenzin Gyatso)","","CN","","male",1989,"peace","",54
+"541",552,240,"Mikhail Sergeyevich","Gorbachev","RU","","male",1990,"peace","""for his leading role in the peace process which today characterizes important parts of the international community""",59
+"542",553,10,"Aung San Suu Kyi","","MM","","female",1991,"peace","""for her non-violent struggle for democracy and human rights""",46
+"543",554,34,"Rigoberta","MenchÏ Tum","GT","","female",1992,"peace","""in recognition of her work for social justice and ethno-cultural reconciliation based on respect for the rights of indigenous peoples""",33
+"544",555,738,"Nelson","Mandela","ZA","ZA","male",1993,"peace","""for their work for the peaceful termination of the apartheid regime, and for laying the foundations for a new democratic South Africa""",75
+"545",556,737,"Frederik Willem","de Klerk","ZA","","male",1993,"peace","""for their work for the peaceful termination of the apartheid regime, and for laying the foundations for a new democratic South Africa""",57
+"546",557,654,"Yasser","Arafat","EG","","male",1994,"peace","""for their efforts to create peace in the Middle East""",65
+"547",558,653,"Shimon","Peres","BY","IL","male",1994,"peace","""for their efforts to create peace in the Middle East""",71
+"548",559,652,"Yitzhak","Rabin","IL","IL","male",1994,"peace","""for their efforts to create peace in the Middle East""",72
+"549",560,655,"Joseph","Rotblat","PL","GB","male",1995,"peace","""for their efforts to diminish the part played by nuclear arms in international politics and, in the longer run, to eliminate such arms""",87
+"550",562,744,"Carlos Filipe Ximenes","Belo","TL","","male",1996,"peace","""for their work towards a just and peaceful solution to the conflict in East Timor""",48
+"551",563,745,"Jos_","Ramos-Horta","TL","","male",1996,"peace","""for their work towards a just and peaceful solution to the conflict in East Timor""",46
+"552",565,31,"Jody","Williams","US","","female",1997,"peace","""for their work for the banning and clearing of anti-personnel mines""",47
+"553",566,656,"John","Hume","GB","","male",1998,"peace","""for their efforts to find a peaceful solution to the conflict in Northern Ireland""",61
+"554",567,657,"David","Trimble","GB","","male",1998,"peace","""for their efforts to find a peaceful solution to the conflict in Northern Ireland""",54
+"555",569,800,"Sully","Prudhomme","FR","FR","male",1901,"literature","""in special recognition of his poetic composition, which gives evidence of lofty idealism, artistic perfection and a rare combination of the qualities of both heart and intellect""",62
+"556",571,804,"Christian Matthias Theodor","Mommsen","DE","DE","male",1902,"literature","""the greatest living master of the art of historical writing, with special reference to his monumental work, <I>A history of Rome</I>""",85
+"557",572,50,"BjÀrnstjerne Martinus","BjÀrnson","NO","FR","male",1903,"literature","""as a tribute to his noble, magnificent and versatile poetry, which has always been distinguished by both the freshness of its inspiration and the rare purity of its spirit""",71
+"558",573,784,"Fr_d_ric","Mistral","FR","FR","male",1904,"literature","""in recognition of the fresh originality and true inspiration of his poetic production, which faithfully reflects the natural scenery and native spirit of his people, and, in addition, his significant work as a Proven&ccedil;al philologist""",74
+"559",574,787,"Jos_","Echegaray y Eizaguirre","ES","ES","male",1904,"literature","""in recognition of the numerous and brilliant compositions which, in an individual and original manner, have revived the great traditions of the Spanish drama""",72
+"560",575,54,"Henryk","Sienkiewicz","PL","CH","male",1905,"literature","""because of his outstanding merits as an epic writer""",59
+"561",576,801,"Giosuè","Carducci","IT","IT","male",1906,"literature","""not only in consideration of his deep learning and critical research, but above all as a tribute to the creative energy, freshness of style, and lyrical force which characterize his poetic masterpieces""",71
+"562",577,757,"Rudyard","Kipling","IN","GB","male",1907,"literature","""in consideration of the power of observation, originality of imagination, virility of ideas and remarkable talent for narration which characterize the creations of this world-famous author""",41
+"563",578,761,"Rudolf Christoph","Eucken","DE","DE","male",1908,"literature","""in recognition of his earnest search for truth, his penetrating power of thought, his wide range of vision, and the warmth and strength in presentation with which in his numerous works he has vindicated and developed an idealistic philosophy of life""",62
+"564",579,32,"Selma Ottilia Lovisa","Lagerl_f","SE","SE","female",1909,"literature","""in appreciation of the lofty idealism, vivid imagination and spiritual perception that characterize her writings""",51
+"565",580,51,"Paul Johann Ludwig","Heyse","DE","DE","male",1910,"literature","""as a tribute to the consummate artistry, permeated with idealism, which he has demonstrated during his long productive career as a lyric poet, dramatist, novelist and writer of world-renowned short stories""",80
+"566",581,756,"Count Maurice (Mooris) Polidore Marie Bernhard","Maeterlinck","BE","FR","male",1911,"literature","""in appreciation of his many-sided literary activities, and especially of his dramatic works, which are distinguished by a wealth of imagination and by a poetic fancy, which reveals, sometimes in the guise of a fairy tale, a deep inspiration, while in a mysterious way they appeal to the readers' own feelings and stimulate their imaginations""",49
+"567",582,802,"Gerhart Johann Robert","Hauptmann","DE","PL","male",1912,"literature","""primarily in recognition of his fruitful, varied and outstanding production in the realm of dramatic art""",50
+"568",583,55,"Rabindranath","Tagore","IN","IN","male",1913,"literature","""because of his profoundly sensitive, fresh and beautiful verse, by which, with consummate skill, he has made his poetic thought, expressed in his own English words, a part of the literature of the West""",52
+"569",584,52,"Romain","Rolland","FR","FR","male",1915,"literature","""as a tribute to the lofty idealism of his literary production and to the sympathy and love of truth with which he has described different types of human beings""",49
+"570",585,766,"Carl Gustaf Verner","von Heidenstam","SE","SE","male",1916,"literature","""in recognition of his significance as the leading representative of a new era in our literature""",57
+"571",586,291,"Karl Adolph","Gjellerup","DK","DE","male",1917,"literature","""for his varied and rich poetry, which is inspired by lofty ideals""",60
+"572",587,112,"Henrik","Pontoppidan","DK","DK","male",1917,"literature","""for his authentic descriptions of present-day life in Denmark""",60
+"573",588,799,"Carl Friedrich Georg","Spitteler","CH","CH","male",1919,"literature","""in special appreciation of his epic, <I>Olympian Spring</I>""",74
+"574",589,250,"Knut Pedersen","Hamsun","NO","NO","male",1920,"literature","""for his monumental work, <I>Growth of the Soil</I>""",61
+"575",590,759,"Anatole","France","FR","FR","male",1921,"literature","""in recognition of his brilliant literary achievements, characterized as they are by a nobility of style, a profound human sympathy, grace, and a true Gallic temperament""",77
+"576",592,441,"Jacinto","Benavente","ES","ES","male",1922,"literature","""for the happy manner in which he has continued the illustrious traditions of the Spanish drama""",56
+"577",593,104,"William Butler","Yeats","IE","FR","male",1923,"literature","""for his always inspired poetry, which in a highly artistic form gives expression to the spirit of a whole nation""",58
+"578",594,220,"Wladyslaw Stanislaw","Reymont","PL","PL","male",1924,"literature","""for his great national epic, <I>The Peasants</I>""",57
+"579",596,321,"George Bernard","Shaw","IE","GB","male",1925,"literature","""for his work which is marked by both idealism and humanity, its stimulating satire often being infused with a singular poetic beauty""",69
+"580",597,7,"Grazia","Deledda","IT","IT","female",1926,"literature","""for her idealistically inspired writings which with plastic clarity picture the life on her native island and with depth and sympathy deal with human problems in general""",55
+"581",600,762,"Henri","Bergson","FR","FR","male",1927,"literature","""in recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented""",68
+"582",601,38,"Sigrid","Undset","DK","NO","female",1928,"literature","""principally for her powerful descriptions of Northern life during the Middle Ages""",46
+"583",602,803,"Thomas","Mann","DE","CH","male",1929,"literature","""principally for his great novel, <I>Buddenbrooks</I>, which has won steadily increased recognition as one of the classic works of contemporary literature""",54
+"584",603,292,"Sinclair","Lewis","US","IT","male",1930,"literature","""for his vigorous and graphic art of description and his ability to create, with wit and humour, new types of characters""",45
+"585",604,805,"Erik Axel","Karlfeldt","SE","SE","male",1931,"literature","""The poetry of Erik Axel Karlfeldt""",67
+"586",605,210,"John","Galsworthy","GB","GB","male",1932,"literature","""for his distinguished art of narration which takes its highest form in <I>The Forsyte Saga</I>""",65
+"587",606,460,"Ivan Alekseyevich","Bunin","RU","FR","male",1933,"literature","""for the strict artistry with which he has carried on the classical Russian traditions in prose writing""",63
+"588",607,115,"Luigi","Pirandello","IT","IT","male",1934,"literature","""for his bold and ingenious revival of dramatic and scenic art""",67
+"589",608,455,"Eugene Gladstone","O'Neill","US","US","male",1936,"literature","""for the power, honesty and deep-felt emotions of his dramatic works, which embody an original concept of tragedy""",48
+"590",609,350,"Roger","Martin du Gard","FR","FR","male",1937,"literature","""for the artistic power and truth with which he has depicted human conflict as well as some fundamental aspects of contemporary life in his novel-cycle <I>Les Thibault</I>""",56
+"591",610,13,"Pearl","Buck","US","US","female",1938,"literature","""for her rich and truly epic descriptions of peasant life in China and for her biographical masterpieces""",46
+"592",613,138,"Frans Eemil","Sillanp__","FI","FI","male",1939,"literature","""for his deep understanding of his country's peasantry and the exquisite art with which he has portrayed their way of life and their relationship with Nature""",51
+"593",614,456,"Johannes Vilhelm","Jensen","DK","DK","male",1944,"literature","""for the rare strength and fertility of his poetic imagination with which is combined an intellectual curiosity of wide scope and a bold, freshly creative style""",71
+"594",615,8,"Gabriela","Mistral","CL","US","female",1945,"literature","""for her lyric poetry which, inspired by powerful emotions, has made her name a symbol of the idealistic aspirations of the entire Latin American world""",56
+"595",617,225,"Hermann","Hesse","DE","CH","male",1946,"literature","""for his inspired writings which, while growing in boldness and penetration, exemplify the classical humanitarian ideals and high qualities of style""",69
+"596",618,118,"Andr_ Paul Guillaume","Gide","FR","FR","male",1947,"literature","""for his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight""",78
+"597",619,256,"Thomas Stearns","Eliot","US","GB","male",1948,"literature","""for his outstanding, pioneer contribution to present-day poetry""",60
+"598",620,265,"William","Faulkner","US","US","male",1949,"literature","""for his powerful and artistically unique contribution to the modern American novel""",52
+"599",621,767,"Earl (Bertrand Arthur William)","Russell","GB","GB","male",1950,"literature","""in recognition of his varied and significant writings in which he champions humanitarian ideals and freedom of thought""",78
+"600",622,351,"P_r Fabian","Lagerkvist","SE","SE","male",1951,"literature","""for the artistic vigour and true independence of mind with which he endeavours in his poetry to find answers to the eternal questions confronting mankind""",60
+"601",623,355,"François","Mauriac","FR","FR","male",1952,"literature","""for the deep spiritual insight and the artistic intensity with which he has in his novels penetrated the drama of human life""",67
+"602",624,244,"Sir Winston Leonard Spencer","Churchill","GB","GB","male",1953,"literature","""for his mastery of historical and biographical description as well as for brilliant oratory in defending exalted human values""",79
+"603",625,245,"Ernest Miller","Hemingway","US","US","male",1954,"literature","""for his mastery of the art of narrative, most recently demonstrated in <I>The Old Man and the Sea,</I> and for the influence that he has exerted on contemporary style""",55
+"604",626,293,"HalldÑr Kiljan","Laxness","IS","IS","male",1955,"literature","""for his vivid epic power which has renewed the great narrative art of Iceland""",53
+"605",627,242,"Juan RamÑn","Jim_nez","ES","PR","male",1956,"literature","""for his lyrical poetry, which in Spanish language constitutes an example of high spirit and artistical purity""",74
+"606",628,224,"Albert","Camus","DZ","FR","male",1957,"literature","""for his important literary production, which with clear-sighted earnestness illuminates the problems of the human conscience in our times""",44
+"607",629,222,"Boris Leonidovich","Pasternak","RU","RU","male",1958,"literature","""for his important achievement both in contemporary lyrical poetry and in the field of the great Russian epic tradition""",68
+"608",630,243,"Salvatore","Quasimodo","IT","IT","male",1959,"literature","""for his lyrical poetry, which with classical fire expresses the tragic experience of life in our own times""",58
+"609",631,459,"Saint-John","Perse","GP","FR","male",1960,"literature","""for the soaring flight and the evocative imagery of his poetry which in a visionary fashion reflects the conditions of our time""",73
+"610",633,438,"Ivo","Andric","BA","RS","male",1961,"literature","""for the epic force with which he has traced themes and depicted human destinies drawn from the history of his country""",69
+"611",634,269,"John","Steinbeck","US","US","male",1962,"literature","""for his realistic and imaginative writings, combining as they do sympathetic humour and keen social perception""",60
+"612",635,211,"Giorgos","Seferis","TR","GR","male",1963,"literature","""for his eminent lyrical writing, inspired by a deep feeling for the Hellenic world of culture""",63
+"613",637,322,"Jean-Paul","Sartre","FR","FR","male",1964,"literature","""for his work which, rich in ideas and filled with the spirit of freedom and the quest for truth, has exerted a far-reaching influence on our age""",59
+"614",638,349,"Mikhail Aleksandrovich","Sholokhov","RU","RU","male",1965,"literature","""for the artistic power and integrity with which, in his epic of the Don, he has given expression to a historic phase in the life of the Russian people""",60
+"615",639,268,"Shmuel Yosef","Agnon","UA","IL","male",1966,"literature","""for his profoundly characteristic narrative art with motifs from the life of the Jewish people""",78
+"616",640,11,"Nelly","Sachs","DE","SE","female",1966,"literature","""for her outstanding lyrical and dramatic writing, which interprets Israel's destiny with touching strength"" ",74
+"617",641,294,"Miguel Angel","Asturias","GT","ES","male",1967,"literature","""for his vivid literary achievement, deep-rooted in the national traits and traditions of Indian peoples of Latin America""",68
+"618",642,251,"Yasunari","Kawabata","JP","JP","male",1968,"literature","""for his narrative mastery, which with great sensibility expresses the essence of the Japanese mind""",69
+"619",643,324,"Samuel","Beckett","IE","FR","male",1969,"literature","""for his writing, which - in new forms for the novel and drama - in the destitution of modern man acquires its elevation""",63
+"620",644,439,"Aleksandr Isayevich","Solzhenitsyn","RU","RU","male",1970,"literature","""for the ethical force with which he has pursued the indispensable traditions of Russian literature""",51
+"621",645,62,"Pablo","Neruda","CL","CL","male",1971,"literature","""for a poetry that with the action of an elemental force brings alive a continent's destiny and dreams""",67
+"622",647,323,"Heinrich","B_ll","DE","DE","male",1972,"literature","""for his writing which through its combination of a broad perspective on his time and a sensitive skill in characterization has contributed to a renewal of German literature""",54
+"623",648,66,"Patrick","White","GB","AU","male",1973,"literature","""for an epic and psychological narrative art which has introduced a new continent into literature""",61
+"624",649,58,"Eyvind","Johnson","SE","SE","male",1974,"literature","""for a narrative art, far-seeing in lands and ages, in the service of freedom""",74
+"625",650,755,"Harry","Martinson","SE","SE","male",1974,"literature","""for writings that catch the dewdrop and reflect the cosmos""",70
+"626",651,209,"Eugenio","Montale","IT","IT","male",1975,"literature","""for his distinctive poetry which, with great artistic sensitivity, has interpreted human values under the sign of an outlook on life with no illusions""",79
+"627",652,442,"Saul","Bellow","CA","US","male",1976,"literature","""for the human understanding and subtle analysis of contemporary culture that are combined in his work""",61
+"628",653,57,"Vicente","Aleixandre","ES","ES","male",1977,"literature","""for a creative poetic writing which illuminates man's condition in the cosmos and in present-day society, at the same time representing the great renewal of the traditions of Spanish poetry between the wars""",79
+"629",654,221,"Isaac Bashevis","Singer","PL","US","male",1978,"literature","""for his impassioned narrative art which, with roots in a Polish-Jewish cultural tradition, brings universal human conditions to life""",74
+"630",655,264,"Odysseus","Elytis","GR","GR","male",1979,"literature","""for his poetry, which, against the background of Greek tradition, depicts with sensuous strength and intellectual clear-sightedness modern man's struggle for freedom and creativeness""",68
+"631",657,815,"Czeslaw","Milosz","LT","PL","male",1980,"literature","""who with uncompromising clear-sightedness voices man's exposed condition in a world of severe conflicts""",69
+"632",658,754,"Elias","Canetti","BG","CH","male",1981,"literature","""for writings marked by a broad outlook, a wealth of ideas and artistic power""",76
+"633",659,252,"Gabriel","GarcÕa Màrquez","CO","MX","male",1982,"literature","""for his novels and short stories, in which the fantastic and the realistic are combined in a richly composed world of imagination, reflecting a continent's life and conflicts""",55
+"634",660,253,"William","Golding","GB","GB","male",1983,"literature","""for his novels which, with the perspicuity of realistic narrative art and the diversity and universality of myth, illuminate the human condition in the world of today""",72
+"635",661,263,"Jaroslav","Seifert","CZ","CZ","male",1984,"literature","""for his poetry which endowed with freshness, sensuality and rich inventiveness provides a liberating image of the indomitable spirit and versatility of man""",83
+"636",662,808,"Claude","Simon","MG","FR","male",1985,"literature","""who in his novel combines the poet's and the painter's creativeness with a deepened awareness of time in the depiction of the human condition""",72
+"637",663,807,"Wole","Soyinka","NG","","male",1986,"literature","""who in a wide cultural perspective and with poetic overtones fashions the drama of existence""",52
+"638",664,65,"Joseph","Brodsky","RU","US","male",1987,"literature","""for an all-embracing authorship, imbued with clarity of thought and poetic intensity""",47
+"639",665,816,"Naguib","Mahfouz","EG","EG","male",1988,"literature","""who, through works rich in nuance - now clear-sightedly realistic, now evocatively ambiguous - has formed an Arabian narrative art that applies to all mankind""",76
+"640",666,63,"Camilo Jos_","Cela","ES","ES","male",1989,"literature","""for a rich and intensive prose, which with restrained compassion forms a challenging vision of man's vulnerability""",73
+"641",667,325,"Octavio","Paz","MX","MX","male",1990,"literature","""for impassioned writing with wide horizons, characterized by sensuous intelligence and humanistic integrity""",76
+"642",668,41,"Nadine","Gordimer","ZA","ZA","female",1991,"literature","""who through her magnificent epic writing has - in the words of Alfred Nobel - been of very great benefit to humanity""",68
+"643",669,61,"Derek","Walcott","LC","","male",1992,"literature","""for a poetic oeuvre of great luminosity, sustained by a historical vision, the outcome of a multicultural commitment""",62
+"644",670,40,"Toni","Morrison","US","","female",1993,"literature","""who in novels characterized by visionary force and poetic import, gives life to an essential aspect of American reality""",62
+"645",671,814,"Kenzaburo","Oe","JP","","male",1994,"literature","""who with poetic force creates an imagined world, where life and myth condense to form a disconcerting picture of the human predicament today""",59
+"646",672,752,"Seamus","Heaney","GB","IE","male",1995,"literature","""for works of lyrical beauty and ethical depth, which exalt everyday miracles and the living past""",56
+"647",673,14,"Wislawa","Szymborska","PL","PL","female",1996,"literature","""for poetry that with ironic precision allows the historical and biological context to come to light in fragments of human reality""",73
+"648",674,806,"Dario","Fo","IT","","male",1997,"literature","""who emulates the jesters of the Middle Ages in scourging authority and upholding the dignity of the downtrodden""",71
+"649",675,813,"Jos_","Saramago","PT","ES","male",1998,"literature","""who with parables sustained by imagination, compassion and irony continually enables us once again to apprehend an elusory reality""",76
+"650",676,817,"GÙnter","Grass","PL","DE","male",1999,"literature","""whose frolicsome black fables portray the forgotten face of history""",72
+"651",677,87,"Ragnar","Frisch","NO","NO","male",1969,"economics","""for having developed and applied dynamic models for the analysis of economic processes""",74
+"652",678,88,"Jan","Tinbergen","NL","NL","male",1969,"economics","""for having developed and applied dynamic models for the analysis of economic processes""",66
+"653",679,457,"Paul A.","Samuelson","US","US","male",1970,"economics","""for the scientific work through which he has developed static and dynamic economic theory and actively contributed to raising the level of analysis in economic science""",55
+"654",680,212,"Simon","Kuznets","BY","US","male",1971,"economics","""for his empirically founded interpretation of economic growth which has led to new and deepened insight into the economic and social structure and process of development""",70
+"655",681,702,"John R.","Hicks","GB","GB","male",1972,"economics","""for their pioneering contributions to general economic equilibrium theory and welfare theory""",68
+"656",682,701,"Kenneth J.","Arrow","US","","male",1972,"economics","""for their pioneering contributions to general economic equilibrium theory and welfare theory""",51
+"657",683,373,"Wassily","Leontief","RU","US","male",1973,"economics","""for the development of the input-output method and for its application to important economic problems""",67
+"658",684,715,"Gunnar","Myrdal","SE","SE","male",1974,"economics","""for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena""",76
+"659",685,716,"Friedrich August","von Hayek","AT","DE","male",1974,"economics","""for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena""",75
+"660",686,487,"Leonid Vitaliyevich","Kantorovich","RU","RU","male",1975,"economics","""for their contributions to the theory of optimum allocation of resources""",63
+"661",687,488,"Tjalling C.","Koopmans","NL","US","male",1975,"economics","""for their contributions to the theory of optimum allocation of resources""",65
+"662",688,103,"Milton","Friedman","US","US","male",1976,"economics","""for his achievements in the fields of consumption analysis, monetary history and theory and for his demonstration of the complexity of stabilization policy""",64
+"663",689,693,"Bertil","Ohlin","SE","SE","male",1977,"economics","""for their pathbreaking contribution to the theory of international trade and international capital movements""",78
+"664",690,692,"James E.","Meade","GB","GB","male",1977,"economics","""for their pathbreaking contribution to the theory of international trade and international capital movements""",70
+"665",691,260,"Herbert A.","Simon","US","US","male",1978,"economics","""for his pioneering research into the decision-making process within economic organizations""",62
+"666",692,708,"Theodore W.","Schultz","US","US","male",1979,"economics","""for their pioneering research into economic development research with particular consideration of the problems of developing countries""",77
+"667",693,709,"Sir Arthur","Lewis","LC","BB","male",1979,"economics","""for their pioneering research into economic development research with particular consideration of the problems of developing countries""",64
+"668",694,353,"Lawrence R.","Klein","US","US","male",1980,"economics","""for the creation of econometric models and the application to the analysis of economic fluctuations and economic policies""",60
+"669",695,107,"James","Tobin","US","US","male",1981,"economics","""for his analysis of financial markets and their relations to expenditure decisions, employment, production and prices""",63
+"670",696,280,"George J.","Stigler","US","US","male",1982,"economics","""for his seminal studies of industrial structures, functioning of markets and causes and effects of public regulation""",71
+"671",697,94,"Gerard","Debreu","FR","FR","male",1983,"economics","""for having incorporated new analytical methods into economic theory and for his rigorous reformulation of the theory of general equilibrium""",62
+"672",698,99,"Richard","Stone","GB","GB","male",1984,"economics","""for having made fundamental contributions to the development of systems of national accounts and hence greatly improved the basis for empirical economic analysis""",71
+"673",699,258,"Franco","Modigliani","IT","US","male",1985,"economics","""for his pioneering analyses of saving and of financial markets""",67
+"674",700,146,"James M.","Buchanan Jr.","US","US","male",1986,"economics","""for his development of the contractual and constitutional bases for the theory of economic and political decision-making""",67
+"675",701,131,"Robert M.","Solow","US","","male",1987,"economics","""for his contributions to the theory of economic growth""",63
+"676",702,259,"Maurice","Allais","FR","FR","male",1988,"economics","""for his pioneering contributions to the theory of markets and efficient utilization of resources""",77
+"677",703,117,"Trygve","Haavelmo","NO","NO","male",1989,"economics","""for his clarification of the probability theory foundations of econometrics and his analyses of simultaneous economic structures""",77
+"678",704,713,"Harry M.","Markowitz","US","","male",1990,"economics","""for their pioneering work in the theory of financial economics""",63
+"679",705,712,"Merton H.","Miller","US","US","male",1990,"economics","""for their pioneering work in the theory of financial economics""",67
+"680",706,714,"William F.","Sharpe","US","","male",1990,"economics","""for their pioneering work in the theory of financial economics""",56
+"681",707,170,"Ronald H.","Coase","GB","US","male",1991,"economics","""for his discovery and clarification of the significance of transaction costs and property rights for the institutional structure and functioning of the economy""",80
+"682",708,93,"Gary S.","Becker","US","US","male",1992,"economics","""for having extended the domain of microeconomic analysis to a wide range of human behaviour and interaction, including nonmarket behaviour""",62
+"683",709,100,"Robert W.","Fogel","US","US","male",1993,"economics","""for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change""",66
+"684",710,101,"Douglass C.","North","US","US","male",1993,"economics","""for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change""",73
+"685",711,698,"John C.","Harsanyi","HU","US","male",1994,"economics","""for their pioneering analysis of equilibria in the theory of non-cooperative games""",74
+"686",712,700,"John F.","Nash Jr.","US","US","male",1994,"economics","""for their pioneering analysis of equilibria in the theory of non-cooperative games""",66
+"687",713,699,"Reinhard","Selten","PL","PL","male",1994,"economics","""for their pioneering analysis of equilibria in the theory of non-cooperative games""",64
+"688",714,89,"Robert E.","Lucas Jr.","US","","male",1995,"economics","""for having developed and applied the hypothesis of rational expectations, and thereby having transformed macroeconomic analysis and deepened our understanding of economic policy""",58
+"689",715,670,"James A.","Mirrlees","GB","","male",1996,"economics","""for their fundamental contributions to the economic theory of incentives under asymmetric information""",60
+"690",716,671,"William","Vickrey","CA","US","male",1996,"economics","""for their fundamental contributions to the economic theory of incentives under asymmetric information""",82
+"691",717,59,"Robert C.","Merton","US","","male",1997,"economics","""for a new method to determine the value of derivatives""",53
+"692",718,60,"Myron S.","Scholes","CA","","male",1997,"economics","""for a new method to determine the value of derivatives""",56
+"693",719,135,"Amartya","Sen","IN","","male",1998,"economics","""for his contributions to welfare economics""",65
+"694",720,110,"Robert A.","Mundell","CA","","male",1999,"economics","""for his analysis of monetary and fiscal policy under different exchange rate regimes and his analysis of optimum currency areas""",67
+"695",721,388,"IlÇja Mikhailovich","Frank","RU","RU","male",1958,"physics","""for the discovery and the interpretation of the Cherenkov effect""",50
+"696",722,542,"Arvid","Carlsson","SE","","male",2000,"medicine","""for their discoveries concerning signal transduction in the nervous system""",77
+"697",723,543,"Paul","Greengard","US","","male",2000,"medicine","""for their discoveries concerning signal transduction in the nervous system""",74
+"698",724,544,"Eric R.","Kandel","AT","","male",2000,"medicine","""for their discoveries concerning signal transduction in the nervous system""",71
+"699",725,295,"Kim","Dae-jung","KR","","male",2000,"peace","""for his work for democracy and human rights in South Korea and in East Asia in general, and for peace and reconciliation with North Korea in particular""",75
+"700",726,68,"Zhores I.","Alferov","BY","","male",2000,"physics","""for developing semiconductor heterostructures used in high-speed- and opto-electronics""",70
+"701",727,67,"Herbert","Kroemer","DE","","male",2000,"physics","""for developing semiconductor heterostructures used in high-speed- and opto-electronics""",72
+"702",728,257,"Jack S.","Kilby","US","US","male",2000,"physics","""for his part in the invention of the integrated circuit""",77
+"703",729,381,"Alan J.","Heeger","US","","male",2000,"chemistry","""for the discovery and development of conductive polymers""",64
+"704",730,380,"Alan G.","MacDiarmid","NZ","US","male",2000,"chemistry","""for the discovery and development of conductive polymers""",73
+"705",731,382,"Hideki","Shirakawa","JP","","male",2000,"chemistry","""for the discovery and development of conductive polymers""",64
+"706",732,152,"James J.","Heckman","US","","male",2000,"economics","""for his development of theory and methods for analyzing selective samples""",56
+"707",733,151,"Daniel L.","McFadden","US","","male",2000,"economics","""for his development of theory and methods for analyzing discrete choice""",63
+"708",734,64,"Gao","Xingjian","CN","","male",2000,"literature","""for an &aelig;uvre of universal validity, bitter insights and linguistic ingenuity, which has opened new paths for the Chinese novel and drama""",60
+"709",735,593,"Leland H.","Hartwell","US","","male",2001,"medicine","""for their discoveries of key regulators of the cell cycle""",62
+"710",736,591,"Tim","Hunt","GB","","male",2001,"medicine","""for their discoveries of key regulators of the cell cycle""",58
+"711",737,592,"Sir Paul M.","Nurse","GB","","male",2001,"medicine","""for their discoveries of key regulators of the cell cycle""",52
+"712",738,346,"Eric A.","Cornell","US","","male",2001,"physics","""for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates""",39
+"713",739,347,"Wolfgang","Ketterle","DE","","male",2001,"physics","""for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates""",44
+"714",740,345,"Carl E.","Wieman","US","","male",2001,"physics","""for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates""",50
+"715",741,743,"William S.","Knowles","US","US","male",2001,"chemistry","""for their work on chirally catalysed hydrogenation reactions""",84
+"716",742,742,"Ryoji","Noyori","JP","","male",2001,"chemistry","""for their work on chirally catalysed hydrogenation reactions""",63
+"717",743,300,"K. Barry","Sharpless","US","","male",2001,"chemistry","""for his work on chirally catalysed oxidation reactions""",60
+"718",744,466,"George A.","Akerlof","US","","male",2001,"economics","""for their analyses of markets with asymmetric information""",61
+"719",745,468,"A. Michael","Spence","US","","male",2001,"economics","""for their analyses of markets with asymmetric information""",58
+"720",746,467,"Joseph E.","Stiglitz","US","","male",2001,"economics","""for their analyses of markets with asymmetric information""",58
+"721",747,102,"Sir Vidiadhar Surajprasad","Naipaul","TT","","male",2001,"literature","""for having united perceptive narrative and incorruptible scrutiny in works that compel us to see the presence of suppressed histories""",69
+"722",749,736,"Kofi","Annan","GH","","male",2001,"peace","""for their work for a better organized and more peaceful world""",63
+"723",750,510,"Sydney","Brenner","ZA","","male",2002,"medicine","""for their discoveries concerning genetic regulation of organ development and programmed cell death'""",75
+"724",751,512,"H. Robert","Horvitz","US","","male",2002,"medicine","""for their discoveries concerning genetic regulation of organ development and programmed cell death'""",55
+"725",752,511,"John E.","Sulston","GB","","male",2002,"medicine","""for their discoveries concerning genetic regulation of organ development and programmed cell death'""",60
+"726",753,334,"Raymond","Davis Jr.","US","US","male",2002,"physics","""for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos""",88
+"727",754,335,"Masatoshi","Koshiba","JP","","male",2002,"physics","""for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos""",76
+"728",755,336,"Riccardo","Giacconi","IT","","male",2002,"physics","""for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources""",71
+"729",756,502,"John B.","Fenn","US","US","male",2002,"chemistry","""for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules""",85
+"730",757,501,"Koichi","Tanaka","JP","","male",2002,"chemistry","""for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules""",43
+"731",758,145,"Kurt","WÙthrich","CH","","male",2002,"chemistry","""for his development of nuclear magnetic resonance spectroscopy for determining the three-dimensional structure of biological macromolecules in solution""",64
+"732",759,95,"Daniel","Kahneman","IL","","male",2002,"economics","""for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty""",68
+"733",760,92,"Vernon L.","Smith","US","","male",2002,"economics","""for having established laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms""",75
+"734",761,753,"Imre","Kert_sz","HU","HU","male",2002,"literature","""for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history""",73
+"735",762,136,"Jimmy","Carter","US","","male",2002,"peace","""for his decades of untiring effort to find peaceful solutions to international conflicts, to advance democracy and human rights, and to promote economic and social development""",78
+"736",763,810,"John M.","Coetzee","ZA","","male",2003,"literature","""who in innumerable guises portrays the surprising involvement of the outsider""",63
+"737",764,525,"Paul C.","Lauterbur","US","US","male",2003,"medicine","""for their discoveries concerning magnetic resonance imaging""",74
+"738",765,524,"Sir Peter","Mansfield","GB","","male",2003,"medicine","""for their discoveries concerning magnetic resonance imaging""",70
+"739",766,337,"Alexei A.","Abrikosov","RU","","male",2003,"physics","""for pioneering contributions to the theory of superconductors and superfluids""",75
+"740",767,338,"Vitaly L.","Ginzburg","RU","","male",2003,"physics","""for pioneering contributions to the theory of superconductors and superfluids""",87
+"741",768,339,"Anthony J.","Leggett","GB","","male",2003,"physics","""for pioneering contributions to the theory of superconductors and superfluids""",65
+"742",769,434,"Peter","Agre","US","","male",2003,"chemistry","""for the discovery of water channels""",54
+"743",770,340,"Roderick","MacKinnon","US","","male",2003,"chemistry","""for structural and mechanistic studies of ion channels""",47
+"744",771,330,"Robert F.","Engle III","US","","male",2003,"economics","""for methods of analyzing economic time series with time-varying volatility (ARCH)""",61
+"745",772,329,"Clive W.J.","Granger","GB","US","male",2003,"economics","""for methods of analyzing economic time series with common trends (cointegration)""",69
+"746",773,6,"Shirin","Ebadi","IR","","female",2003,"peace","""for her efforts for democracy and human rights. She has focused especially on the struggle for the rights of women and children""",56
+"747",774,597,"Richard","Axel","US","","male",2004,"medicine","""for their discoveries of odorant receptors and the organization of the olfactory system""",58
+"748",775,24,"Linda B.","Buck","US","","female",2004,"medicine","""for their discoveries of odorant receptors and the organization of the olfactory system""",57
+"749",776,394,"David J.","Gross","US","","male",2004,"physics","""for the discovery of asymptotic freedom in the theory of the strong interaction""",63
+"750",777,393,"H. David","Politzer","US","","male",2004,"physics","""for the discovery of asymptotic freedom in the theory of the strong interaction""",55
+"751",778,392,"Frank","Wilczek","US","","male",2004,"physics","""for the discovery of asymptotic freedom in the theory of the strong interaction""",53
+"752",779,430,"Aaron","Ciechanover","IL","","male",2004,"chemistry","""for the discovery of ubiquitin-mediated protein degradation""",57
+"753",780,429,"Avram","Hershko","HU","","male",2004,"chemistry","""for the discovery of ubiquitin-mediated protein degradation""",66
+"754",781,431,"Irwin","Rose","US","US","male",2004,"chemistry","""for the discovery of ubiquitin-mediated protein degradation""",78
+"755",782,9,"Elfriede","Jelinek","AT","","female",2004,"literature","""for her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clich&eacute;s and their subjugating power""",58
+"756",783,2,"Wangari Muta","Maathai","KE","KE","female",2004,"peace","""for her contribution to sustainable development, democracy and peace""",64
+"757",786,482,"Finn E.","Kydland","NO","","male",2004,"economics","""for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles""",61
+"758",787,481,"Edward C.","Prescott","US","","male",2004,"economics","""for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles""",63
+"759",789,637,"Barry J.","Marshall","AU","","male",2005,"medicine","""for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease""",54
+"760",790,638,"J. Robin","Warren","AU","","male",2005,"medicine","""for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease""",68
+"761",791,122,"Roy J.","Glauber","US","","male",2005,"physics","""for his contribution to the quantum theory of optical coherence""",80
+"762",792,483,"John L.","Hall","US","","male",2005,"physics","""for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique""",71
+"763",793,484,"Theodor W.","H_nsch","DE","","male",2005,"physics","""for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique""",64
+"764",794,378,"Yves","Chauvin","BE","FR","male",2005,"chemistry","""for the development of the metathesis method in organic synthesis""",75
+"765",795,377,"Robert H.","Grubbs","US","","male",2005,"chemistry","""for the development of the metathesis method in organic synthesis""",63
+"766",796,376,"Richard R.","Schrock","US","","male",2005,"chemistry","""for the development of the metathesis method in organic synthesis""",60
+"767",798,658,"Mohamed","ElBaradei","EG","","male",2005,"peace","""for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way""",63
+"768",799,91,"Robert J.","Aumann","DE","","male",2005,"economics","""for having enhanced our understanding of conflict and cooperation through game-theory analysis""",75
+"769",800,90,"Thomas C.","Schelling","US","","male",2005,"economics","""for having enhanced our understanding of conflict and cooperation through game-theory analysis""",84
+"770",801,809,"Harold","Pinter","GB","GB","male",2005,"literature","""who in his plays uncovers the precipice under everyday prattle and forces entry into oppression's closed rooms""",75
+"771",802,627,"Andrew Z.","Fire","US","","male",2006,"medicine","""for their discovery of RNA interference - gene silencing by double-stranded RNA""",47
+"772",803,628,"Craig C.","Mello","US","","male",2006,"medicine","""for their discovery of RNA interference - gene silencing by double-stranded RNA""",46
+"773",804,640,"John C.","Mather","US","","male",2006,"physics","""for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation""",60
+"774",805,639,"George F.","Smoot","US","","male",2006,"physics","""for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation""",61
+"775",806,284,"Roger D.","Kornberg","US","","male",2006,"chemistry","""for his studies of the molecular basis of eukaryotic transcription""",59
+"776",807,108,"Edmund S.","Phelps","US","","male",2006,"economics","""for his analysis of intertemporal tradeoffs in macroeconomic policy""",73
+"777",808,811,"Orhan","Pamuk","TR","","male",2006,"literature","""who in the quest for the melancholic soul of his native city has discovered new symbols for the clash and interlacing of cultures""",54
+"778",809,651,"Muhammad","Yunus","BD","","male",2006,"peace","""for their efforts to create economic and social development from below""",66
+"779",811,600,"Mario R.","Capecchi","IT","","male",2007,"medicine","""for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells""",70
+"780",812,598,"Sir Martin J.","Evans","GB","","male",2007,"medicine","""for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells""",66
+"781",813,599,"Oliver","Smithies","GB","","male",2007,"medicine","""for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells""",82
+"782",814,396,"Albert","Fert","FR","","male",2007,"physics","""for the discovery of Giant Magnetoresistance""",69
+"783",815,395,"Peter","GrÙnberg","CZ","","male",2007,"physics","""for the discovery of Giant Magnetoresistance""",68
+"784",816,283,"Gerhard","Ertl","DE","","male",2007,"chemistry","""for his studies of chemical processes on solid surfaces""",71
+"785",817,39,"Doris","Lessing","IR","GB","female",2007,"literature","""that epicist of the female experience, who with scepticism, fire and visionary power has subjected a divided civilisation to scrutiny""",88
+"786",819,650,"Albert Arnold (Al)","Gore Jr.","US","","male",2007,"peace","""for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change""",59
+"787",820,97,"Leonid","Hurwicz","RU","US","male",2007,"economics","""for having laid the foundations of mechanism design theory""",90
+"788",821,98,"Eric S.","Maskin","US","","male",2007,"economics","""for having laid the foundations of mechanism design theory""",56
+"789",822,96,"Roger B.","Myerson","US","","male",2007,"economics","""for having laid the foundations of mechanism design theory""",56
+"790",823,176,"Harald","zur Hausen","DE","","male",2008,"medicine","""for his discovery of human papilloma viruses causing cervical cancer""",72
+"791",824,25,"Françoise","Barr_-Sinoussi","FR","","female",2008,"medicine","""for their discovery of human immunodeficiency virus""",61
+"792",825,626,"Luc","Montagnier","FR","","male",2008,"medicine","""for their discovery of human immunodeficiency virus""",76
+"793",826,419,"Yoichiro","Nambu","JP","JP","male",2008,"physics","""for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics""",87
+"794",827,422,"Makoto","Kobayashi","JP","","male",2008,"physics","""for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature""",64
+"795",828,421,"Toshihide","Maskawa","JP","","male",2008,"physics","""for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature""",68
+"796",829,384,"Osamu","Shimomura","JP","","male",2008,"chemistry","""for the discovery and development of the green fluorescent protein, GFP""",80
+"797",830,385,"Martin","Chalfie","US","","male",2008,"chemistry","""for the discovery and development of the green fluorescent protein, GFP""",61
+"798",831,386,"Roger Y.","Tsien","US","US","male",2008,"chemistry","""for the discovery and development of the green fluorescent protein, GFP""",56
+"799",832,53,"Jean-Marie Gustave","Le Cl_zio","FR","","male",2008,"literature","""author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization""",68
+"800",833,223,"Martti","Ahtisaari","RU","","male",2008,"peace","""for his important efforts, on several continents and over more than three decades, to resolve international conflicts""",71
+"801",834,111,"Paul","Krugman","US","","male",2008,"economics","""for his analysis of trade patterns and location of economic activity""",55
+"802",835,18,"Elizabeth H.","Blackburn","AU","","female",2009,"medicine","""for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase""",61
+"803",836,17,"Carol W.","Greider","US","","female",2009,"medicine","""for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase""",48
+"804",837,397,"Jack W.","Szostak","GB","","male",2009,"medicine","""for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase""",57
+"805",838,84,"Charles Kuen","Kao","CN","","male",2009,"physics","""for groundbreaking achievements concerning the transmission of light in fibers for optical communication""",76
+"806",839,446,"Willard S.","Boyle","CA","CA","male",2009,"physics","""for the invention of an imaging semiconductor circuit - the CCD sensor""",85
+"807",840,445,"George E.","Smith","US","","male",2009,"physics","""for the invention of an imaging semiconductor circuit - the CCD sensor""",79
+"808",841,343,"Venkatraman","Ramakrishnan","IN","","male",2009,"chemistry","""for studies of the structure and function of the ribosome""",57
+"809",842,344,"Thomas A.","Steitz","US","","male",2009,"chemistry","""for studies of the structure and function of the ribosome""",69
+"810",843,15,"Ada E.","Yonath","IL","","female",2009,"chemistry","""for studies of the structure and function of the ribosome""",70
+"811",844,42,"Herta","MÙller","RO","","female",2009,"literature","""who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed""",56
+"812",845,213,"Barack H.","Obama","US","","male",2009,"peace","""for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples""",48
+"813",846,1,"Elinor","Ostrom","US","US","female",2009,"economics","""for her analysis of economic governance, especially the commons""",76
+"814",847,106,"Oliver E.","Williamson","US","","male",2009,"economics","""for his analysis of economic governance, especially the boundaries of the firm""",77
+"815",848,365,"Robert G.","Edwards","GB","GB","male",2010,"medicine","""for the development of in vitro fertilization""",85
+"816",849,85,"Andre","Geim","RU","","male",2010,"physics","""for groundbreaking experiments regarding the two-dimensional material graphene""",52
+"817",850,86,"Konstantin","Novoselov","RU","","male",2010,"physics","""for groundbreaking experiments regarding the two-dimensional material graphene""",36
+"818",851,333,"Richard F.","Heck","US","","male",2010,"chemistry","""for palladium-catalyzed cross couplings in organic synthesis""",79
+"819",852,332,"Ei-ichi","Negishi","CN","","male",2010,"chemistry","""for palladium-catalyzed cross couplings in organic synthesis""",75
+"820",853,331,"Akira","Suzuki","JP","","male",2010,"chemistry","""for palladium-catalyzed cross couplings in organic synthesis""",80
+"821",854,116,"Mario","Vargas Llosa","PE","","male",2010,"literature","""for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat""",74
+"822",855,241,"Liu","Xiaobo","CN","","male",2010,"peace","""for his long and non-violent struggle for fundamental human rights in China""",54
+"823",856,470,"Peter A.","Diamond","US","","male",2010,"economics","""for their analysis of markets with search frictions""",70
+"824",857,469,"Dale T.","Mortensen","US","US","male",2010,"economics","""for their analysis of markets with search frictions""",71
+"825",858,471,"Christopher A.","Pissarides","CY","","male",2010,"economics","""for their analysis of markets with search frictions""",62
+"826",861,545,"Bruce A.","Beutler","US","","male",2011,"medicine","""for their discoveries concerning the activation of innate immunity""",53
+"827",862,546,"Jules A.","Hoffmann","LU","","male",2011,"medicine","""for their discoveries concerning the activation of innate immunity""",70
+"828",863,185,"Ralph M.","Steinman","CA","","male",2011,"medicine","""for his discovery of the dendritic cell and its role in adaptive immunity""",68
+"829",864,412,"Saul","Perlmutter","US","","male",2011,"physics","""for the discovery of the accelerating expansion of the Universe through observations of distant supernovae""",52
+"830",865,413,"Brian P.","Schmidt","US","","male",2011,"physics","""for the discovery of the accelerating expansion of the Universe through observations of distant supernovae""",44
+"831",866,411,"Adam G.","Riess","US","","male",2011,"physics","""for the discovery of the accelerating expansion of the Universe through observations of distant supernovae""",41
+"832",867,407,"Dan","Shechtman","IL","","male",2011,"chemistry","""for the discovery of quasicrystals""",70
+"833",868,56,"Tomas","Transtr_mer","SE","SE","male",2011,"literature","""because, through his condensed, translucent images, he gives us fresh access to reality""",80
+"834",869,27,"Ellen","Johnson Sirleaf","LR","","female",2011,"peace","""for their non-violent struggle for the safety of women and for women&apos;s rights to full participation in peace-building work""",73
+"835",870,28,"Leymah","Gbowee","LR","","female",2011,"peace","""for their non-violent struggle for the safety of women and for women&apos;s rights to full participation in peace-building work""",39
+"836",871,29,"Tawakkol","Karman","YE","","female",2011,"peace","""for their non-violent struggle for the safety of women and for women&apos;s rights to full participation in peace-building work""",32
+"837",872,664,"Thomas J.","Sargent","US","","male",2011,"economics","""for their empirical research on cause and effect in the macroeconomy""",68
+"838",873,665,"Christopher A.","Sims","US","","male",2011,"economics","""for their empirical research on cause and effect in the macroeconomy""",69
+"839",874,435,"Sir John B.","Gurdon","GB","","male",2012,"medicine","""for the discovery that mature cells can be reprogrammed to become pluripotent""",79
+"840",875,436,"Shinya","Yamanaka","JP","","male",2012,"medicine","""for the discovery that mature cells can be reprogrammed to become pluripotent""",50
+"841",876,83,"Serge","Haroche","MA","","male",2012,"physics","""for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems""",68
+"842",877,82,"David J.","Wineland","US","","male",2012,"physics","""for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems""",68
+"843",878,341,"Robert J.","Lefkowitz","US","","male",2012,"chemistry","""for studies of G-protein-coupled receptors""",69
+"844",879,342,"Brian K.","Kobilka","US","","male",2012,"chemistry","""for studies of G-protein-coupled receptors""",57
+"845",880,812,"Mo","Yan","CN","","male",2012,"literature","""who with hallucinatory realism merges folk tales, history and the contemporary""",57
+"846",882,464,"Alvin E.","Roth","US","","male",2012,"economics","""for the theory of stable allocations and the practice of market design""",60
+"847",883,465,"Lloyd S.","Shapley","US","US","male",2012,"economics","""for the theory of stable allocations and the practice of market design""",89
+"848",884,595,"James E.","Rothman","US","","male",2013,"medicine","""for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells""",63
+"849",885,594,"Randy W.","Schekman","US","","male",2013,"medicine","""for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells""",64
+"850",886,596,"Thomas C.","SÙdhof","DE","","male",2013,"medicine","""for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells""",57
+"851",887,462,"François","Englert","BE","","male",2013,"physics","""for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider""",81
+"852",888,463,"Peter W.","Higgs","GB","","male",2013,"physics","""for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider""",84
+"853",889,366,"Martin","Karplus","AT","","male",2013,"chemistry","""for the development of multiscale models for complex chemical systems""",83
+"854",890,368,"Michael","Levitt","ZA","","male",2013,"chemistry","""for the development of multiscale models for complex chemical systems""",66
+"855",891,367,"Arieh","Warshel","IL","","male",2013,"chemistry","""for the development of multiscale models for complex chemical systems""",73
+"856",892,37,"Alice","Munro","CA","","female",2013,"literature","""master of the contemporary short story""",82
+"857",894,661,"Eugene F.","Fama","US","","male",2013,"economics","""for their empirical analysis of asset prices""",74
+"858",895,662,"Lars Peter","Hansen","US","","male",2013,"economics","""for their empirical analysis of asset prices""",61
+"859",896,663,"Robert J.","Shiller","US","","male",2013,"economics","""for their empirical analysis of asset prices""",67
+"860",903,586,"John","O'Keefe","US","","male",2014,"medicine","""for their discoveries of cells that constitute a positioning system in the brain""",75
+"861",904,21,"May-Britt","Moser","NO","","female",2014,"medicine","""for their discoveries of cells that constitute a positioning system in the brain""",51
+"862",905,587,"Edvard I.","Moser","NO","","male",2014,"medicine","""for their discoveries of cells that constitute a positioning system in the brain""",52
+"863",906,448,"Isamu","Akasaki","JP","","male",2014,"physics","""for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources""",85
+"864",907,447,"Hiroshi","Amano","JP","","male",2014,"physics","""for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources""",54
+"865",908,449,"Shuji","Nakamura","JP","","male",2014,"physics","""for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources""",60
+"866",909,370,"Eric","Betzig","US","","male",2014,"chemistry","""for the development of super-resolved fluorescence microscopy""",54
+"867",910,371,"Stefan W.","Hell","RO","","male",2014,"chemistry","""for the development of super-resolved fluorescence microscopy""",51
+"868",911,372,"William E.","Moerner","US","","male",2014,"chemistry","""for the development of super-resolved fluorescence microscopy""",61
+"869",912,348,"Patrick","Modiano","FR","","male",2014,"literature","""for the art of memory with which he has evoked the most ungraspable human destinies and uncovered the life-world of the occupation""""""",69
+"870",913,728,"Kailash","Satyarthi","IN","","male",2014,"peace","""for their struggle against the suppression of children and young people and for the right of all children to education""",60
+"871",914,30,"Malala","Yousafzai","PK","","female",2014,"peace","""for their struggle against the suppression of children and young people and for the right of all children to education""",17
+"872",915,109,"Jean","Tirole","FR","","male",2014,"economics","""for his analysis of market power and regulation""",61
+"873",916,505,"William C.","Campbell","IE","","male",2015,"medicine","""for their discoveries concerning a novel therapy against infections caused by roundworm parasites""",85
+"874",917,506,"Satoshi","&#332;mura","JP","","male",2015,"medicine","""for their discoveries concerning a novel therapy against infections caused by roundworm parasites""",80
+"875",918,4,"Youyou","Tu","CN","","female",2015,"medicine","""for her discoveries concerning a novel therapy against Malaria""",84
+"876",919,400,"Takaaki","Kajita","JP","","male",2015,"physics","""for the discovery of neutrino oscillations, which shows that neutrinos have mass""",56
+"877",920,401,"Arthur B.","McDonald","CA","","male",2015,"physics","""for the discovery of neutrino oscillations, which shows that neutrinos have mass""",72
+"878",921,328,"Tomas","Lindahl","SE","","male",2015,"chemistry","""for mechanistic studies of DNA repair""",77
+"879",922,327,"Paul","Modrich","US","","male",2015,"chemistry","""for mechanistic studies of DNA repair""",69
+"880",923,326,"Aziz","Sancar","TR","","male",2015,"chemistry","""for mechanistic studies of DNA repair""",69
+"881",924,12,"Svetlana","Alexievich","UA","","female",2015,"literature","""for her polyphonic writings, a monument to suffering and courage in our time""",67
+"882",926,105,"Angus","Deaton","GB","","male",2015,"economics","""for his analysis of consumption, poverty, and welfare""",70
+"883",927,165,"Yoshinori","Ohsumi","JP","","male",2016,"medicine","""for his discoveries of mechanisms for autophagy""",71
+"884",928,748,"David J.","Thouless","GB","","male",2016,"physics","""for theoretical discoveries of topological phase transitions and topological phases of matter""",82
+"885",929,746,"F. Duncan M.","Haldane","GB","","male",2016,"physics","""for theoretical discoveries of topological phase transitions and topological phases of matter""",65
+"886",930,747,"J. Michael","Kosterlitz","GB","","male",2016,"physics","""for theoretical discoveries of topological phase transitions and topological phases of matter""",73
+"887",931,358,"Jean-Pierre","Sauvage","FR","","male",2016,"chemistry","""for the design and synthesis of molecular machines""",72
+"888",932,356,"Sir J. Fraser","Stoddart","GB","","male",2016,"chemistry","""for the design and synthesis of molecular machines""",74
+"889",933,357,"Bernard L.","Feringa","NL","","male",2016,"chemistry","""for the design and synthesis of molecular machines""",65
+"890",934,278,"Juan Manuel","Santos","CO","","male",2016,"peace","""for his resolute efforts to bring the country's more than 50-year-long civil war to an end""",65
