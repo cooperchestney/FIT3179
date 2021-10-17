@@ -1,15 +1,13 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Nobel prize winners",
-  "width": 800,
-  "height": 600,
   "projection": {"type": "equirectangular"},
   "data": {
     "url": "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/Assignment%202/js/worldmap.topojson",
     "format": {"type": "topojson", "feature": "custom.geo"}
   },
   
-  "autosize2": {"contains": "padding", "resize": true, "type": "fit"},
+  "autosize": {"contains": "padding", "resize": true, "type": "fit"},
   "width": "container",
   
   "transform": [
