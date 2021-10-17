@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": "600",
-  "height": 400,
+  "height": 450,
   "title": "GDP per capita of Nobel prize winner birth country by prize category",
   "data": {
     "url": "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/Assignment%202/data/nobelwinners.csv"
