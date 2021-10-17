@@ -9,7 +9,6 @@
   },
   
   "autosize2": {"type": "fit", "resize": true, "contains": "padding"},
-  "width": "container",
   
   "mark": "tick",
   "encoding": {
