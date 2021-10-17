@@ -15,6 +15,6 @@
       "type": "quantitative",
       "title": "GDP per capita"
     },
-    "color": {"field": "category", "scale": {"scheme": "lightorange"}}
+    "color": {"field": "category", "scale": {"scheme": "lightorange"}, "title": ""}
   }
 }
