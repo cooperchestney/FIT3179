@@ -14,6 +14,6 @@
   "encoding": {
     "x" :{"field":"category", "title": "Category"},
     "y":{"field": "gender", "aggregate": "count", "title": "Number of prizes"},
-    "color":{"field":"gender", "title":"Gender", "scheme": "lightorange"}
+    "color":{"field":"gender", "title":"Gender", "scale": {"scheme":"lightorange"}}
   }
 }
