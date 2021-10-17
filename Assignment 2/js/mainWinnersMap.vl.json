@@ -30,7 +30,7 @@
     "color": {
       "field": "Number of prizes",
       "type": "quantitative",
-      "scale": {"type": "log", "scheme": "lightgreyred"}
+      "scale": {"type": "log", "scheme": "lightorange"}
     },
     "tooltip": [
       {"field": "properties.iso_a2", "type": "nominal", "title": "Country"},
