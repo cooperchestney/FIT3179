@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 150,
+  "width": "container",
   "height": 400,
   "title": "Nobel prize recipients gender makeup by category",
   "data": {
@@ -8,7 +8,6 @@
   },
   
   "autosize2": {"contains": "padding", "resize": true, "type": "fit"},
-  "width": "container",
 
   "mark" : "bar",
   "encoding": {
