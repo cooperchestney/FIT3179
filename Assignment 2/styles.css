@@ -8,6 +8,17 @@
 	padding: 10px;
 }
 
+#tickPlot {
+    width: 100%;
+	padding: 10px;
+	display: block;
+}
+
+#gdpBoxPlot {
+    width: 100%;
+	padding: 10px;
+}
+
 #chart {
     display: block;
     margin-left: auto;
