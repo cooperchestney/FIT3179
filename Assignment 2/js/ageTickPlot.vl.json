@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "height": 450,
-  "width": 600,
+  "width": "container",
 
   "title": "Nobel prize recipients age when award recieved",
   "data": {
