@@ -1,0 +1,271 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nobel Prize Visualisation</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/base-min.css">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/grids-min.css">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/grids-responsive-min.css">
+    <link rel="stylesheet" href="C:\Users\Cooper\Documents\Uni\FIT3179\A2\ws\css\styles.css">
+    
+    
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+  
+    <div id="front">
+            
+        <div class="header">
+            <h1>Nobel prize winners</h1>
+            <div id="subheader"><i>A visualisation by Cooper Chestney</i></div>
+        </div>
+
+        <div class="pure-g l-box">
+            
+            <div class="pure-u-1-2">
+
+                <div id="subtitle">
+                    <h2>Overview<h2>
+                </div>
+
+                <div class="paragraph"/>
+                    <p>
+                    Alfred Nobel was a Swedish chemist, engineer, and inventor. Before his death, he composed a will to create <span style="color: black"><b>a series of prizes for those who confer the "greatest benefit
+                    on mankind"</b></span>. The Nobel prizes are awarded to the fields of <span style="color: black"><b>Physics</b></span>, <span style="color: black"><b>Chemistry</b></span>,
+                    <span style="color: black"><b>Medicine</b></span>, and <span style="color: black"><b>Peace</b></span> (The <span style="color: black"><b>Economics</b></span> prize is administered by the Nobel Foundation, but
+                    is not technically a Nobel prize). The first prize was handed out in 1901, with the award today being a gold medal, a diploma, and 10 million Swedish krona (approx. 1.57m AUD).
+                    <br> <br> Nobel prizes have been handed out to people from all over the world, such as Pakistani female education activist Malala Yousafzai, German-born physicist Albert Einstein,
+                    and Polish physicist and chemist Marie Curie.
+                    <br><div id="footnote">The dataset used records Nobel prize winners up to 2016.</div>
+                    </p>
+                </div>
+            </div>
+
+            <div class="pure-u-1-2 paragraph">
+                <div id="summary">
+
+                    <div id="overall"
+                        <h2><i>The average Nobel laureate:</i></h2>
+                        <p><b>Gender:</b> Male</p>
+                        <p><b>Age:</b> 59</p>
+                        <p><b>GDP per capita of birth country:</b> $41,287 (roughly equivalent to the Japan)</p>
+                    </div>
+
+                    <div id="chemistry"
+                        <h2><i>The average Chemistry Nobel laureate:</i></h2>
+                        <p><b>Gender:</b> Male</p>
+                        <p><b>Age:</b> 57</p>
+                        <p><b>GDP per capita of birth country:</b> $42,529 (roughly equivalent to the Japan)</p>
+                    </div>
+
+                    <div id="economics"
+                        <h2><i>The average Economics Nobel laureate:</i></h2>
+                        <p><b>Gender:</b> Male</p>
+                        <p><b>Age:</b> 67</p>
+                        <p><b>GDP per capita of birth country:</b> $48,376 (roughly equivalent to Israel)</p>
+                    </div>
+
+                    <div id="literature"
+                        <h2><i>The average Literature Nobel laureate:</i></h2>
+                        <p><b>Gender:</b> Male</p>
+                        <p><b>Age:</b> 64</p>
+                        <p><b>GDP per capita of birth country:</b> $31,782 (roughly equivalent to Kuwait)</p>
+                    </div>
+
+                    <div id="medicine"
+                        <h2><i>The average Medicine Nobel laureate:</i></h2>
+                        <p><b>Gender:</b> Male</p>
+                        <p><b>Age:</b> 58</p>
+                        <p><b>GDP per capita of birth country:</b> $45,015 (roughly equivalent to France)</p>
+                    </div>
+
+                    <div id="peace"
+                        <h2><i>The average Peace Nobel laureate:</i></h2>
+                        <p><b>Gender:</b> Male</p>
+                        <p><b>Age:</b> 61</p>
+                        <p><b>GDP per capita of birth country:</b> $33,427 (roughly equivalent to Brunei)</p>
+                    </div>
+
+                    <div id="physics"
+                        <h2><i>The average Physics Nobel laureate:</i></h2>
+                        <p><b>Gender:</b> Male</p>
+                        <p><b>Age:</b> 55</p>
+                        <p><b>GDP per capita of birth country:</b> $33,427 (roughly equivalent to Japan)</p>
+                    </div>
+
+
+                <div class="pure-button-group" role="group" aria-label="summaryselect">
+                    <button class="pure-button" onclick="showOverall()">Overall</button>
+                    <button class="pure-button" onclick="showChemistry()">Chemistry</button>
+                    <button class="pure-button" onclick="showEconomics()">Economics</button>
+                    <button class="pure-button" onclick="showLiterature()">Literature</button>
+                    <button class="pure-button" onclick="showMedicine()">Medicine</button>
+                    <button class="pure-button" onclick="showPeace()">Peace</button>
+                    <button class="pure-button" onclick="showPhysics()">Physics</button>
+                </div>
+
+                <script src="C:\Users\Cooper\Documents\Uni\FIT3179\A2\ws\js\events.js"></script>
+
+                <script>showOverall()</script>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="pure-g">
+
+            <div class="pure-u-1-2">
+
+                <div id="subtitle">
+                    <h2>Worldly winners<h2>
+                </div>
+
+                <div class="paragraph"/>
+                    <p>
+                    The <span style="color: black"><b>United States of America has by far the largest number of Nobel laureates</b></span>, with 258, compared to the <span style="color: black"><b>second-largest number,
+                    the United Kingdom</b></span>, with 98.
+                    <br><br>Laureates are primarily dispersed  through <span style="color: black"><b>North America</b></span>, <span style="color: black"><b>Europe</b></span>, <span style="color: black"><b>East Asia</b></span>, 
+                    and <span style="color: black"><b>Oceania</b></span>.
+                    </p>
+                </div>
+            </div>
+
+            <div class ="pure-u-1-2">
+                <div class="chart">
+                    <div id="mainWinnersMap"></div>
+
+                    <script type="text/javascript">
+                        var spec2 = "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/Assignment%202/js/mainWinnersMap.vl.json";
+                        vegaEmbed('#mainWinnersMap', spec2).then(function(result) {
+                        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+                        }).catch(console.error);
+                    </script>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="pure-g">
+
+            <div class="pure-u-1-2">
+
+                <div id="subtitle">
+                    <h2>Gender imbalance<h2>
+                </div>
+
+                <div class="paragraph"/>
+                    <p>
+                    The gender profile of Nobel laureates is <span style="color: black"><b>extremely weighted towards males</b></span>, in all prizes. However, the prize with the <span style="color: black"><b>largest number of female recipients is
+                    the Peace prize</b></span>.
+                    <br><br>The <span style="color: black"><b>Medicine, Physics, and Chemistry prizes contain the largest number of recipients</b></span>. This is likely due to the fact that in these fields, achievements for which a Nobel
+                    prize could be awarded require group efforts. In comparison, <span style="color: black"><b>the Peace and Literature prizes are often awarded to sole recipients</b></span>.
+                    </p>
+                </div>
+            </div>
+
+            <div class="pure-u-1-2">
+                <div class="chart">
+                    <div id="genderPieChart"></div>
+    
+                    <script type="text/javascript">
+                        var spec2 = "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/Assignment%202/js/genderBarChart.vl.json";
+                        vegaEmbed('#genderPieChart', spec2).then(function(result) {
+                        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+                        }).catch(console.error);
+                    </script>
+                </div>
+            </div>
+        </div>
+
+        <div class="pure-g">
+            
+            <div class="pure-u-1-2">
+
+                <div id="subtitle">
+                    <h2>Understanding age<h2>
+                </div>
+
+                <div class="paragraph"/>
+                    <p>
+                    <span style="color: black"><b>Nobel prize recipients are generally middle-aged when they recieve their award</b></span>, with most categories awarding prizes (usually) to people in the ages between 40 and 80.
+                    <br><br><span style="color: black"><b>The Economics prize is generally given out to older people</b></span>, with no laureate aged under 50. Similarly, the Literature prize has not been given to a recipient under 40.
+                    <span style="color: black"><b>Peace prize recipients are also usually older</b></span>, however the youngest Nobel prize recipient, Malala Yousafzai, recieved the Peace prize aged 17.
+                    <br><br><span style="color: black"><b>The Chemistry, Medicine, and Physics prize laureates share a similar age profile</b></span>, with Physics in particular having noticeably more recipients in their 30s.
+                    </p>
+                </div>
+            </div>
+
+            <div class="pure-u-1-2">
+                <div class="chart">
+                    <div id="tickPlot"></div>
+
+                    <script type="text/javascript">
+                        var spec2 = "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/Assignment%202/js/ageTickPlot.vl.json";
+                        vegaEmbed('#tickPlot', spec2).then(function(result) {
+                        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+                        }).catch(console.error);
+                    </script>
+                </div>
+            </div>
+        </div>
+
+        <div class="pure-g">
+            
+            <div class="pure-u-1-2">
+
+                <div id="subtitle">
+                    <h2>Rich and poor<h2>
+                </div>
+
+                <div class="paragraph"/>
+                    <p>
+                    <span style="color: black"><b>The countries that the laureates of the Chemistry, Economics, Medicine, and Physics prizes were born in all share a similar makeup of GDP per capita</b></span>. There is a
+                    reasonable diversity in wealth of the countries that recipients of these prizes come from, however, they are <span style="color: black"><b>generally much more than world average GDP per capita
+                    of around $18,381USD</b></span>.
+                    <br><br>On the other hand, <span style="color: black"><b>the Literature and Peace prizes have distinctly lower interquartile ranges than the other prizes</b></span>, meaning these prizes are <span style="color: black"><b>awarded to people
+                    from poorer nations more often</b></span>. Examples of this can be seen with the 2011 Peace prize being given to Liberian women Ellen Johnson Sirleaf and Leymah Gbowee, and Yemeni woman
+                    Tawakkul Karman.
+                    <br><div id="footnote">GDP per capita calculation is at 2016, regardless of when the Nobel prize was won.</div>
+                    </p>
+                </div>
+            </div>
+
+            <div class="pure-u-1-2">
+                <div class="chart">
+                    <div id="gdpBoxPlot"></div>
+    
+                    <script type="text/javascript">
+                        var spec2 = "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/Assignment%202/js/gdpBoxPlot.vl.json";
+                        vegaEmbed('#gdpBoxPlot', spec2).then(function(result) {
+                        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+                        }).catch(console.error);
+                    </script>
+                </div>
+            </div>
+        </div>
+
+        <div id="references">
+            <h3>Datasets used</h3>
+            <a href="https://www.kaggle.com/rishidamarla/nobel-prize-winners-19002020">Nobel Prize Winners (1900-2020)</a>, by Rishi Damarla
+            <br><a href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD">GDP per capita (current US$)</a>, by The World Bank
+            <br><a href="https://gist.github.com/tadast/8827699#file-countries_codes_and_coordinates-csv">Country codes and coordinates</a>, by tadast
+        </p>
+        </div>
+
+    </div>
+
+</body>
+</html>
