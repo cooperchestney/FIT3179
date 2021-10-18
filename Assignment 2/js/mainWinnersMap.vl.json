@@ -3,7 +3,7 @@
   "title": "Nobel prize winners",
   "width": 800,
   "height": 300,
-  "projection": {"type": "equirectangular"},
+  "projection": {"type": "equalEarth"},
   "data": {
     "url": "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/Assignment%202/js/worldmap.topojson",
     "format": {"type": "topojson", "feature": "custom.geo"}
