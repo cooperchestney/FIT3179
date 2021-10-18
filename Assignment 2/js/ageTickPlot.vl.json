@@ -2,14 +2,11 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "height": 450,
   "width": "container",
-
   "title": "Nobel prize recipients age when award recieved",
   "data": {
     "url": "https://raw.githubusercontent.com/cooperchestney/FIT3179/main/Assignment%202/data/nobelwinners.csv"
   },
-  
-  "autosize2": {"type": "fit", "resize": true, "contains": "padding"},
-  
+  "autosize": {"type": "fit", "resize": true, "contains": "padding"},
   "mark": "tick",
   "encoding": {
     "x": {"field": "age", "title": "Age", "scale": {"type": "linear"}},
